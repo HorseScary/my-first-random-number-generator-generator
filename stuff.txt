@@ -1,0 +1,5996 @@
+
+    elif number == 2501 and number >= range1 and number <= range2:
+        print('2501')
+        a = 2
+
+    elif number == 2502 and number >= range1 and number <= range2:
+        print('2502')
+        a = 2
+
+    elif number == 2503 and number >= range1 and number <= range2:
+        print('2503')
+        a = 2
+
+    elif number == 2504 and number >= range1 and number <= range2:
+        print('2504')
+        a = 2
+
+    elif number == 2505 and number >= range1 and number <= range2:
+        print('2505')
+        a = 2
+
+    elif number == 2506 and number >= range1 and number <= range2:
+        print('2506')
+        a = 2
+
+    elif number == 2507 and number >= range1 and number <= range2:
+        print('2507')
+        a = 2
+
+    elif number == 2508 and number >= range1 and number <= range2:
+        print('2508')
+        a = 2
+
+    elif number == 2509 and number >= range1 and number <= range2:
+        print('2509')
+        a = 2
+
+    elif number == 2510 and number >= range1 and number <= range2:
+        print('2510')
+        a = 2
+
+    elif number == 2511 and number >= range1 and number <= range2:
+        print('2511')
+        a = 2
+
+    elif number == 2512 and number >= range1 and number <= range2:
+        print('2512')
+        a = 2
+
+    elif number == 2513 and number >= range1 and number <= range2:
+        print('2513')
+        a = 2
+
+    elif number == 2514 and number >= range1 and number <= range2:
+        print('2514')
+        a = 2
+
+    elif number == 2515 and number >= range1 and number <= range2:
+        print('2515')
+        a = 2
+
+    elif number == 2516 and number >= range1 and number <= range2:
+        print('2516')
+        a = 2
+
+    elif number == 2517 and number >= range1 and number <= range2:
+        print('2517')
+        a = 2
+
+    elif number == 2518 and number >= range1 and number <= range2:
+        print('2518')
+        a = 2
+
+    elif number == 2519 and number >= range1 and number <= range2:
+        print('2519')
+        a = 2
+
+    elif number == 2520 and number >= range1 and number <= range2:
+        print('2520')
+        a = 2
+
+    elif number == 2521 and number >= range1 and number <= range2:
+        print('2521')
+        a = 2
+
+    elif number == 2522 and number >= range1 and number <= range2:
+        print('2522')
+        a = 2
+
+    elif number == 2523 and number >= range1 and number <= range2:
+        print('2523')
+        a = 2
+
+    elif number == 2524 and number >= range1 and number <= range2:
+        print('2524')
+        a = 2
+
+    elif number == 2525 and number >= range1 and number <= range2:
+        print('2525')
+        a = 2
+
+    elif number == 2526 and number >= range1 and number <= range2:
+        print('2526')
+        a = 2
+
+    elif number == 2527 and number >= range1 and number <= range2:
+        print('2527')
+        a = 2
+
+    elif number == 2528 and number >= range1 and number <= range2:
+        print('2528')
+        a = 2
+
+    elif number == 2529 and number >= range1 and number <= range2:
+        print('2529')
+        a = 2
+
+    elif number == 2530 and number >= range1 and number <= range2:
+        print('2530')
+        a = 2
+
+    elif number == 2531 and number >= range1 and number <= range2:
+        print('2531')
+        a = 2
+
+    elif number == 2532 and number >= range1 and number <= range2:
+        print('2532')
+        a = 2
+
+    elif number == 2533 and number >= range1 and number <= range2:
+        print('2533')
+        a = 2
+
+    elif number == 2534 and number >= range1 and number <= range2:
+        print('2534')
+        a = 2
+
+    elif number == 2535 and number >= range1 and number <= range2:
+        print('2535')
+        a = 2
+
+    elif number == 2536 and number >= range1 and number <= range2:
+        print('2536')
+        a = 2
+
+    elif number == 2537 and number >= range1 and number <= range2:
+        print('2537')
+        a = 2
+
+    elif number == 2538 and number >= range1 and number <= range2:
+        print('2538')
+        a = 2
+
+    elif number == 2539 and number >= range1 and number <= range2:
+        print('2539')
+        a = 2
+
+    elif number == 2540 and number >= range1 and number <= range2:
+        print('2540')
+        a = 2
+
+    elif number == 2541 and number >= range1 and number <= range2:
+        print('2541')
+        a = 2
+
+    elif number == 2542 and number >= range1 and number <= range2:
+        print('2542')
+        a = 2
+
+    elif number == 2543 and number >= range1 and number <= range2:
+        print('2543')
+        a = 2
+
+    elif number == 2544 and number >= range1 and number <= range2:
+        print('2544')
+        a = 2
+
+    elif number == 2545 and number >= range1 and number <= range2:
+        print('2545')
+        a = 2
+
+    elif number == 2546 and number >= range1 and number <= range2:
+        print('2546')
+        a = 2
+
+    elif number == 2547 and number >= range1 and number <= range2:
+        print('2547')
+        a = 2
+
+    elif number == 2548 and number >= range1 and number <= range2:
+        print('2548')
+        a = 2
+
+    elif number == 2549 and number >= range1 and number <= range2:
+        print('2549')
+        a = 2
+
+    elif number == 2550 and number >= range1 and number <= range2:
+        print('2550')
+        a = 2
+
+    elif number == 2551 and number >= range1 and number <= range2:
+        print('2551')
+        a = 2
+
+    elif number == 2552 and number >= range1 and number <= range2:
+        print('2552')
+        a = 2
+
+    elif number == 2553 and number >= range1 and number <= range2:
+        print('2553')
+        a = 2
+
+    elif number == 2554 and number >= range1 and number <= range2:
+        print('2554')
+        a = 2
+
+    elif number == 2555 and number >= range1 and number <= range2:
+        print('2555')
+        a = 2
+
+    elif number == 2556 and number >= range1 and number <= range2:
+        print('2556')
+        a = 2
+
+    elif number == 2557 and number >= range1 and number <= range2:
+        print('2557')
+        a = 2
+
+    elif number == 2558 and number >= range1 and number <= range2:
+        print('2558')
+        a = 2
+
+    elif number == 2559 and number >= range1 and number <= range2:
+        print('2559')
+        a = 2
+
+    elif number == 2560 and number >= range1 and number <= range2:
+        print('2560')
+        a = 2
+
+    elif number == 2561 and number >= range1 and number <= range2:
+        print('2561')
+        a = 2
+
+    elif number == 2562 and number >= range1 and number <= range2:
+        print('2562')
+        a = 2
+
+    elif number == 2563 and number >= range1 and number <= range2:
+        print('2563')
+        a = 2
+
+    elif number == 2564 and number >= range1 and number <= range2:
+        print('2564')
+        a = 2
+
+    elif number == 2565 and number >= range1 and number <= range2:
+        print('2565')
+        a = 2
+
+    elif number == 2566 and number >= range1 and number <= range2:
+        print('2566')
+        a = 2
+
+    elif number == 2567 and number >= range1 and number <= range2:
+        print('2567')
+        a = 2
+
+    elif number == 2568 and number >= range1 and number <= range2:
+        print('2568')
+        a = 2
+
+    elif number == 2569 and number >= range1 and number <= range2:
+        print('2569')
+        a = 2
+
+    elif number == 2570 and number >= range1 and number <= range2:
+        print('2570')
+        a = 2
+
+    elif number == 2571 and number >= range1 and number <= range2:
+        print('2571')
+        a = 2
+
+    elif number == 2572 and number >= range1 and number <= range2:
+        print('2572')
+        a = 2
+
+    elif number == 2573 and number >= range1 and number <= range2:
+        print('2573')
+        a = 2
+
+    elif number == 2574 and number >= range1 and number <= range2:
+        print('2574')
+        a = 2
+
+    elif number == 2575 and number >= range1 and number <= range2:
+        print('2575')
+        a = 2
+
+    elif number == 2576 and number >= range1 and number <= range2:
+        print('2576')
+        a = 2
+
+    elif number == 2577 and number >= range1 and number <= range2:
+        print('2577')
+        a = 2
+
+    elif number == 2578 and number >= range1 and number <= range2:
+        print('2578')
+        a = 2
+
+    elif number == 2579 and number >= range1 and number <= range2:
+        print('2579')
+        a = 2
+
+    elif number == 2580 and number >= range1 and number <= range2:
+        print('2580')
+        a = 2
+
+    elif number == 2581 and number >= range1 and number <= range2:
+        print('2581')
+        a = 2
+
+    elif number == 2582 and number >= range1 and number <= range2:
+        print('2582')
+        a = 2
+
+    elif number == 2583 and number >= range1 and number <= range2:
+        print('2583')
+        a = 2
+
+    elif number == 2584 and number >= range1 and number <= range2:
+        print('2584')
+        a = 2
+
+    elif number == 2585 and number >= range1 and number <= range2:
+        print('2585')
+        a = 2
+
+    elif number == 2586 and number >= range1 and number <= range2:
+        print('2586')
+        a = 2
+
+    elif number == 2587 and number >= range1 and number <= range2:
+        print('2587')
+        a = 2
+
+    elif number == 2588 and number >= range1 and number <= range2:
+        print('2588')
+        a = 2
+
+    elif number == 2589 and number >= range1 and number <= range2:
+        print('2589')
+        a = 2
+
+    elif number == 2590 and number >= range1 and number <= range2:
+        print('2590')
+        a = 2
+
+    elif number == 2591 and number >= range1 and number <= range2:
+        print('2591')
+        a = 2
+
+    elif number == 2592 and number >= range1 and number <= range2:
+        print('2592')
+        a = 2
+
+    elif number == 2593 and number >= range1 and number <= range2:
+        print('2593')
+        a = 2
+
+    elif number == 2594 and number >= range1 and number <= range2:
+        print('2594')
+        a = 2
+
+    elif number == 2595 and number >= range1 and number <= range2:
+        print('2595')
+        a = 2
+
+    elif number == 2596 and number >= range1 and number <= range2:
+        print('2596')
+        a = 2
+
+    elif number == 2597 and number >= range1 and number <= range2:
+        print('2597')
+        a = 2
+
+    elif number == 2598 and number >= range1 and number <= range2:
+        print('2598')
+        a = 2
+
+    elif number == 2599 and number >= range1 and number <= range2:
+        print('2599')
+        a = 2
+
+    elif number == 2600 and number >= range1 and number <= range2:
+        print('2600')
+        a = 2
+
+    elif number == 2601 and number >= range1 and number <= range2:
+        print('2601')
+        a = 2
+
+    elif number == 2602 and number >= range1 and number <= range2:
+        print('2602')
+        a = 2
+
+    elif number == 2603 and number >= range1 and number <= range2:
+        print('2603')
+        a = 2
+
+    elif number == 2604 and number >= range1 and number <= range2:
+        print('2604')
+        a = 2
+
+    elif number == 2605 and number >= range1 and number <= range2:
+        print('2605')
+        a = 2
+
+    elif number == 2606 and number >= range1 and number <= range2:
+        print('2606')
+        a = 2
+
+    elif number == 2607 and number >= range1 and number <= range2:
+        print('2607')
+        a = 2
+
+    elif number == 2608 and number >= range1 and number <= range2:
+        print('2608')
+        a = 2
+
+    elif number == 2609 and number >= range1 and number <= range2:
+        print('2609')
+        a = 2
+
+    elif number == 2610 and number >= range1 and number <= range2:
+        print('2610')
+        a = 2
+
+    elif number == 2611 and number >= range1 and number <= range2:
+        print('2611')
+        a = 2
+
+    elif number == 2612 and number >= range1 and number <= range2:
+        print('2612')
+        a = 2
+
+    elif number == 2613 and number >= range1 and number <= range2:
+        print('2613')
+        a = 2
+
+    elif number == 2614 and number >= range1 and number <= range2:
+        print('2614')
+        a = 2
+
+    elif number == 2615 and number >= range1 and number <= range2:
+        print('2615')
+        a = 2
+
+    elif number == 2616 and number >= range1 and number <= range2:
+        print('2616')
+        a = 2
+
+    elif number == 2617 and number >= range1 and number <= range2:
+        print('2617')
+        a = 2
+
+    elif number == 2618 and number >= range1 and number <= range2:
+        print('2618')
+        a = 2
+
+    elif number == 2619 and number >= range1 and number <= range2:
+        print('2619')
+        a = 2
+
+    elif number == 2620 and number >= range1 and number <= range2:
+        print('2620')
+        a = 2
+
+    elif number == 2621 and number >= range1 and number <= range2:
+        print('2621')
+        a = 2
+
+    elif number == 2622 and number >= range1 and number <= range2:
+        print('2622')
+        a = 2
+
+    elif number == 2623 and number >= range1 and number <= range2:
+        print('2623')
+        a = 2
+
+    elif number == 2624 and number >= range1 and number <= range2:
+        print('2624')
+        a = 2
+
+    elif number == 2625 and number >= range1 and number <= range2:
+        print('2625')
+        a = 2
+
+    elif number == 2626 and number >= range1 and number <= range2:
+        print('2626')
+        a = 2
+
+    elif number == 2627 and number >= range1 and number <= range2:
+        print('2627')
+        a = 2
+
+    elif number == 2628 and number >= range1 and number <= range2:
+        print('2628')
+        a = 2
+
+    elif number == 2629 and number >= range1 and number <= range2:
+        print('2629')
+        a = 2
+
+    elif number == 2630 and number >= range1 and number <= range2:
+        print('2630')
+        a = 2
+
+    elif number == 2631 and number >= range1 and number <= range2:
+        print('2631')
+        a = 2
+
+    elif number == 2632 and number >= range1 and number <= range2:
+        print('2632')
+        a = 2
+
+    elif number == 2633 and number >= range1 and number <= range2:
+        print('2633')
+        a = 2
+
+    elif number == 2634 and number >= range1 and number <= range2:
+        print('2634')
+        a = 2
+
+    elif number == 2635 and number >= range1 and number <= range2:
+        print('2635')
+        a = 2
+
+    elif number == 2636 and number >= range1 and number <= range2:
+        print('2636')
+        a = 2
+
+    elif number == 2637 and number >= range1 and number <= range2:
+        print('2637')
+        a = 2
+
+    elif number == 2638 and number >= range1 and number <= range2:
+        print('2638')
+        a = 2
+
+    elif number == 2639 and number >= range1 and number <= range2:
+        print('2639')
+        a = 2
+
+    elif number == 2640 and number >= range1 and number <= range2:
+        print('2640')
+        a = 2
+
+    elif number == 2641 and number >= range1 and number <= range2:
+        print('2641')
+        a = 2
+
+    elif number == 2642 and number >= range1 and number <= range2:
+        print('2642')
+        a = 2
+
+    elif number == 2643 and number >= range1 and number <= range2:
+        print('2643')
+        a = 2
+
+    elif number == 2644 and number >= range1 and number <= range2:
+        print('2644')
+        a = 2
+
+    elif number == 2645 and number >= range1 and number <= range2:
+        print('2645')
+        a = 2
+
+    elif number == 2646 and number >= range1 and number <= range2:
+        print('2646')
+        a = 2
+
+    elif number == 2647 and number >= range1 and number <= range2:
+        print('2647')
+        a = 2
+
+    elif number == 2648 and number >= range1 and number <= range2:
+        print('2648')
+        a = 2
+
+    elif number == 2649 and number >= range1 and number <= range2:
+        print('2649')
+        a = 2
+
+    elif number == 2650 and number >= range1 and number <= range2:
+        print('2650')
+        a = 2
+
+    elif number == 2651 and number >= range1 and number <= range2:
+        print('2651')
+        a = 2
+
+    elif number == 2652 and number >= range1 and number <= range2:
+        print('2652')
+        a = 2
+
+    elif number == 2653 and number >= range1 and number <= range2:
+        print('2653')
+        a = 2
+
+    elif number == 2654 and number >= range1 and number <= range2:
+        print('2654')
+        a = 2
+
+    elif number == 2655 and number >= range1 and number <= range2:
+        print('2655')
+        a = 2
+
+    elif number == 2656 and number >= range1 and number <= range2:
+        print('2656')
+        a = 2
+
+    elif number == 2657 and number >= range1 and number <= range2:
+        print('2657')
+        a = 2
+
+    elif number == 2658 and number >= range1 and number <= range2:
+        print('2658')
+        a = 2
+
+    elif number == 2659 and number >= range1 and number <= range2:
+        print('2659')
+        a = 2
+
+    elif number == 2660 and number >= range1 and number <= range2:
+        print('2660')
+        a = 2
+
+    elif number == 2661 and number >= range1 and number <= range2:
+        print('2661')
+        a = 2
+
+    elif number == 2662 and number >= range1 and number <= range2:
+        print('2662')
+        a = 2
+
+    elif number == 2663 and number >= range1 and number <= range2:
+        print('2663')
+        a = 2
+
+    elif number == 2664 and number >= range1 and number <= range2:
+        print('2664')
+        a = 2
+
+    elif number == 2665 and number >= range1 and number <= range2:
+        print('2665')
+        a = 2
+
+    elif number == 2666 and number >= range1 and number <= range2:
+        print('2666')
+        a = 2
+
+    elif number == 2667 and number >= range1 and number <= range2:
+        print('2667')
+        a = 2
+
+    elif number == 2668 and number >= range1 and number <= range2:
+        print('2668')
+        a = 2
+
+    elif number == 2669 and number >= range1 and number <= range2:
+        print('2669')
+        a = 2
+
+    elif number == 2670 and number >= range1 and number <= range2:
+        print('2670')
+        a = 2
+
+    elif number == 2671 and number >= range1 and number <= range2:
+        print('2671')
+        a = 2
+
+    elif number == 2672 and number >= range1 and number <= range2:
+        print('2672')
+        a = 2
+
+    elif number == 2673 and number >= range1 and number <= range2:
+        print('2673')
+        a = 2
+
+    elif number == 2674 and number >= range1 and number <= range2:
+        print('2674')
+        a = 2
+
+    elif number == 2675 and number >= range1 and number <= range2:
+        print('2675')
+        a = 2
+
+    elif number == 2676 and number >= range1 and number <= range2:
+        print('2676')
+        a = 2
+
+    elif number == 2677 and number >= range1 and number <= range2:
+        print('2677')
+        a = 2
+
+    elif number == 2678 and number >= range1 and number <= range2:
+        print('2678')
+        a = 2
+
+    elif number == 2679 and number >= range1 and number <= range2:
+        print('2679')
+        a = 2
+
+    elif number == 2680 and number >= range1 and number <= range2:
+        print('2680')
+        a = 2
+
+    elif number == 2681 and number >= range1 and number <= range2:
+        print('2681')
+        a = 2
+
+    elif number == 2682 and number >= range1 and number <= range2:
+        print('2682')
+        a = 2
+
+    elif number == 2683 and number >= range1 and number <= range2:
+        print('2683')
+        a = 2
+
+    elif number == 2684 and number >= range1 and number <= range2:
+        print('2684')
+        a = 2
+
+    elif number == 2685 and number >= range1 and number <= range2:
+        print('2685')
+        a = 2
+
+    elif number == 2686 and number >= range1 and number <= range2:
+        print('2686')
+        a = 2
+
+    elif number == 2687 and number >= range1 and number <= range2:
+        print('2687')
+        a = 2
+
+    elif number == 2688 and number >= range1 and number <= range2:
+        print('2688')
+        a = 2
+
+    elif number == 2689 and number >= range1 and number <= range2:
+        print('2689')
+        a = 2
+
+    elif number == 2690 and number >= range1 and number <= range2:
+        print('2690')
+        a = 2
+
+    elif number == 2691 and number >= range1 and number <= range2:
+        print('2691')
+        a = 2
+
+    elif number == 2692 and number >= range1 and number <= range2:
+        print('2692')
+        a = 2
+
+    elif number == 2693 and number >= range1 and number <= range2:
+        print('2693')
+        a = 2
+
+    elif number == 2694 and number >= range1 and number <= range2:
+        print('2694')
+        a = 2
+
+    elif number == 2695 and number >= range1 and number <= range2:
+        print('2695')
+        a = 2
+
+    elif number == 2696 and number >= range1 and number <= range2:
+        print('2696')
+        a = 2
+
+    elif number == 2697 and number >= range1 and number <= range2:
+        print('2697')
+        a = 2
+
+    elif number == 2698 and number >= range1 and number <= range2:
+        print('2698')
+        a = 2
+
+    elif number == 2699 and number >= range1 and number <= range2:
+        print('2699')
+        a = 2
+
+    elif number == 2700 and number >= range1 and number <= range2:
+        print('2700')
+        a = 2
+
+    elif number == 2701 and number >= range1 and number <= range2:
+        print('2701')
+        a = 2
+
+    elif number == 2702 and number >= range1 and number <= range2:
+        print('2702')
+        a = 2
+
+    elif number == 2703 and number >= range1 and number <= range2:
+        print('2703')
+        a = 2
+
+    elif number == 2704 and number >= range1 and number <= range2:
+        print('2704')
+        a = 2
+
+    elif number == 2705 and number >= range1 and number <= range2:
+        print('2705')
+        a = 2
+
+    elif number == 2706 and number >= range1 and number <= range2:
+        print('2706')
+        a = 2
+
+    elif number == 2707 and number >= range1 and number <= range2:
+        print('2707')
+        a = 2
+
+    elif number == 2708 and number >= range1 and number <= range2:
+        print('2708')
+        a = 2
+
+    elif number == 2709 and number >= range1 and number <= range2:
+        print('2709')
+        a = 2
+
+    elif number == 2710 and number >= range1 and number <= range2:
+        print('2710')
+        a = 2
+
+    elif number == 2711 and number >= range1 and number <= range2:
+        print('2711')
+        a = 2
+
+    elif number == 2712 and number >= range1 and number <= range2:
+        print('2712')
+        a = 2
+
+    elif number == 2713 and number >= range1 and number <= range2:
+        print('2713')
+        a = 2
+
+    elif number == 2714 and number >= range1 and number <= range2:
+        print('2714')
+        a = 2
+
+    elif number == 2715 and number >= range1 and number <= range2:
+        print('2715')
+        a = 2
+
+    elif number == 2716 and number >= range1 and number <= range2:
+        print('2716')
+        a = 2
+
+    elif number == 2717 and number >= range1 and number <= range2:
+        print('2717')
+        a = 2
+
+    elif number == 2718 and number >= range1 and number <= range2:
+        print('2718')
+        a = 2
+
+    elif number == 2719 and number >= range1 and number <= range2:
+        print('2719')
+        a = 2
+
+    elif number == 2720 and number >= range1 and number <= range2:
+        print('2720')
+        a = 2
+
+    elif number == 2721 and number >= range1 and number <= range2:
+        print('2721')
+        a = 2
+
+    elif number == 2722 and number >= range1 and number <= range2:
+        print('2722')
+        a = 2
+
+    elif number == 2723 and number >= range1 and number <= range2:
+        print('2723')
+        a = 2
+
+    elif number == 2724 and number >= range1 and number <= range2:
+        print('2724')
+        a = 2
+
+    elif number == 2725 and number >= range1 and number <= range2:
+        print('2725')
+        a = 2
+
+    elif number == 2726 and number >= range1 and number <= range2:
+        print('2726')
+        a = 2
+
+    elif number == 2727 and number >= range1 and number <= range2:
+        print('2727')
+        a = 2
+
+    elif number == 2728 and number >= range1 and number <= range2:
+        print('2728')
+        a = 2
+
+    elif number == 2729 and number >= range1 and number <= range2:
+        print('2729')
+        a = 2
+
+    elif number == 2730 and number >= range1 and number <= range2:
+        print('2730')
+        a = 2
+
+    elif number == 2731 and number >= range1 and number <= range2:
+        print('2731')
+        a = 2
+
+    elif number == 2732 and number >= range1 and number <= range2:
+        print('2732')
+        a = 2
+
+    elif number == 2733 and number >= range1 and number <= range2:
+        print('2733')
+        a = 2
+
+    elif number == 2734 and number >= range1 and number <= range2:
+        print('2734')
+        a = 2
+
+    elif number == 2735 and number >= range1 and number <= range2:
+        print('2735')
+        a = 2
+
+    elif number == 2736 and number >= range1 and number <= range2:
+        print('2736')
+        a = 2
+
+    elif number == 2737 and number >= range1 and number <= range2:
+        print('2737')
+        a = 2
+
+    elif number == 2738 and number >= range1 and number <= range2:
+        print('2738')
+        a = 2
+
+    elif number == 2739 and number >= range1 and number <= range2:
+        print('2739')
+        a = 2
+
+    elif number == 2740 and number >= range1 and number <= range2:
+        print('2740')
+        a = 2
+
+    elif number == 2741 and number >= range1 and number <= range2:
+        print('2741')
+        a = 2
+
+    elif number == 2742 and number >= range1 and number <= range2:
+        print('2742')
+        a = 2
+
+    elif number == 2743 and number >= range1 and number <= range2:
+        print('2743')
+        a = 2
+
+    elif number == 2744 and number >= range1 and number <= range2:
+        print('2744')
+        a = 2
+
+    elif number == 2745 and number >= range1 and number <= range2:
+        print('2745')
+        a = 2
+
+    elif number == 2746 and number >= range1 and number <= range2:
+        print('2746')
+        a = 2
+
+    elif number == 2747 and number >= range1 and number <= range2:
+        print('2747')
+        a = 2
+
+    elif number == 2748 and number >= range1 and number <= range2:
+        print('2748')
+        a = 2
+
+    elif number == 2749 and number >= range1 and number <= range2:
+        print('2749')
+        a = 2
+
+    elif number == 2750 and number >= range1 and number <= range2:
+        print('2750')
+        a = 2
+
+    elif number == 2751 and number >= range1 and number <= range2:
+        print('2751')
+        a = 2
+
+    elif number == 2752 and number >= range1 and number <= range2:
+        print('2752')
+        a = 2
+
+    elif number == 2753 and number >= range1 and number <= range2:
+        print('2753')
+        a = 2
+
+    elif number == 2754 and number >= range1 and number <= range2:
+        print('2754')
+        a = 2
+
+    elif number == 2755 and number >= range1 and number <= range2:
+        print('2755')
+        a = 2
+
+    elif number == 2756 and number >= range1 and number <= range2:
+        print('2756')
+        a = 2
+
+    elif number == 2757 and number >= range1 and number <= range2:
+        print('2757')
+        a = 2
+
+    elif number == 2758 and number >= range1 and number <= range2:
+        print('2758')
+        a = 2
+
+    elif number == 2759 and number >= range1 and number <= range2:
+        print('2759')
+        a = 2
+
+    elif number == 2760 and number >= range1 and number <= range2:
+        print('2760')
+        a = 2
+
+    elif number == 2761 and number >= range1 and number <= range2:
+        print('2761')
+        a = 2
+
+    elif number == 2762 and number >= range1 and number <= range2:
+        print('2762')
+        a = 2
+
+    elif number == 2763 and number >= range1 and number <= range2:
+        print('2763')
+        a = 2
+
+    elif number == 2764 and number >= range1 and number <= range2:
+        print('2764')
+        a = 2
+
+    elif number == 2765 and number >= range1 and number <= range2:
+        print('2765')
+        a = 2
+
+    elif number == 2766 and number >= range1 and number <= range2:
+        print('2766')
+        a = 2
+
+    elif number == 2767 and number >= range1 and number <= range2:
+        print('2767')
+        a = 2
+
+    elif number == 2768 and number >= range1 and number <= range2:
+        print('2768')
+        a = 2
+
+    elif number == 2769 and number >= range1 and number <= range2:
+        print('2769')
+        a = 2
+
+    elif number == 2770 and number >= range1 and number <= range2:
+        print('2770')
+        a = 2
+
+    elif number == 2771 and number >= range1 and number <= range2:
+        print('2771')
+        a = 2
+
+    elif number == 2772 and number >= range1 and number <= range2:
+        print('2772')
+        a = 2
+
+    elif number == 2773 and number >= range1 and number <= range2:
+        print('2773')
+        a = 2
+
+    elif number == 2774 and number >= range1 and number <= range2:
+        print('2774')
+        a = 2
+
+    elif number == 2775 and number >= range1 and number <= range2:
+        print('2775')
+        a = 2
+
+    elif number == 2776 and number >= range1 and number <= range2:
+        print('2776')
+        a = 2
+
+    elif number == 2777 and number >= range1 and number <= range2:
+        print('2777')
+        a = 2
+
+    elif number == 2778 and number >= range1 and number <= range2:
+        print('2778')
+        a = 2
+
+    elif number == 2779 and number >= range1 and number <= range2:
+        print('2779')
+        a = 2
+
+    elif number == 2780 and number >= range1 and number <= range2:
+        print('2780')
+        a = 2
+
+    elif number == 2781 and number >= range1 and number <= range2:
+        print('2781')
+        a = 2
+
+    elif number == 2782 and number >= range1 and number <= range2:
+        print('2782')
+        a = 2
+
+    elif number == 2783 and number >= range1 and number <= range2:
+        print('2783')
+        a = 2
+
+    elif number == 2784 and number >= range1 and number <= range2:
+        print('2784')
+        a = 2
+
+    elif number == 2785 and number >= range1 and number <= range2:
+        print('2785')
+        a = 2
+
+    elif number == 2786 and number >= range1 and number <= range2:
+        print('2786')
+        a = 2
+
+    elif number == 2787 and number >= range1 and number <= range2:
+        print('2787')
+        a = 2
+
+    elif number == 2788 and number >= range1 and number <= range2:
+        print('2788')
+        a = 2
+
+    elif number == 2789 and number >= range1 and number <= range2:
+        print('2789')
+        a = 2
+
+    elif number == 2790 and number >= range1 and number <= range2:
+        print('2790')
+        a = 2
+
+    elif number == 2791 and number >= range1 and number <= range2:
+        print('2791')
+        a = 2
+
+    elif number == 2792 and number >= range1 and number <= range2:
+        print('2792')
+        a = 2
+
+    elif number == 2793 and number >= range1 and number <= range2:
+        print('2793')
+        a = 2
+
+    elif number == 2794 and number >= range1 and number <= range2:
+        print('2794')
+        a = 2
+
+    elif number == 2795 and number >= range1 and number <= range2:
+        print('2795')
+        a = 2
+
+    elif number == 2796 and number >= range1 and number <= range2:
+        print('2796')
+        a = 2
+
+    elif number == 2797 and number >= range1 and number <= range2:
+        print('2797')
+        a = 2
+
+    elif number == 2798 and number >= range1 and number <= range2:
+        print('2798')
+        a = 2
+
+    elif number == 2799 and number >= range1 and number <= range2:
+        print('2799')
+        a = 2
+
+    elif number == 2800 and number >= range1 and number <= range2:
+        print('2800')
+        a = 2
+
+    elif number == 2801 and number >= range1 and number <= range2:
+        print('2801')
+        a = 2
+
+    elif number == 2802 and number >= range1 and number <= range2:
+        print('2802')
+        a = 2
+
+    elif number == 2803 and number >= range1 and number <= range2:
+        print('2803')
+        a = 2
+
+    elif number == 2804 and number >= range1 and number <= range2:
+        print('2804')
+        a = 2
+
+    elif number == 2805 and number >= range1 and number <= range2:
+        print('2805')
+        a = 2
+
+    elif number == 2806 and number >= range1 and number <= range2:
+        print('2806')
+        a = 2
+
+    elif number == 2807 and number >= range1 and number <= range2:
+        print('2807')
+        a = 2
+
+    elif number == 2808 and number >= range1 and number <= range2:
+        print('2808')
+        a = 2
+
+    elif number == 2809 and number >= range1 and number <= range2:
+        print('2809')
+        a = 2
+
+    elif number == 2810 and number >= range1 and number <= range2:
+        print('2810')
+        a = 2
+
+    elif number == 2811 and number >= range1 and number <= range2:
+        print('2811')
+        a = 2
+
+    elif number == 2812 and number >= range1 and number <= range2:
+        print('2812')
+        a = 2
+
+    elif number == 2813 and number >= range1 and number <= range2:
+        print('2813')
+        a = 2
+
+    elif number == 2814 and number >= range1 and number <= range2:
+        print('2814')
+        a = 2
+
+    elif number == 2815 and number >= range1 and number <= range2:
+        print('2815')
+        a = 2
+
+    elif number == 2816 and number >= range1 and number <= range2:
+        print('2816')
+        a = 2
+
+    elif number == 2817 and number >= range1 and number <= range2:
+        print('2817')
+        a = 2
+
+    elif number == 2818 and number >= range1 and number <= range2:
+        print('2818')
+        a = 2
+
+    elif number == 2819 and number >= range1 and number <= range2:
+        print('2819')
+        a = 2
+
+    elif number == 2820 and number >= range1 and number <= range2:
+        print('2820')
+        a = 2
+
+    elif number == 2821 and number >= range1 and number <= range2:
+        print('2821')
+        a = 2
+
+    elif number == 2822 and number >= range1 and number <= range2:
+        print('2822')
+        a = 2
+
+    elif number == 2823 and number >= range1 and number <= range2:
+        print('2823')
+        a = 2
+
+    elif number == 2824 and number >= range1 and number <= range2:
+        print('2824')
+        a = 2
+
+    elif number == 2825 and number >= range1 and number <= range2:
+        print('2825')
+        a = 2
+
+    elif number == 2826 and number >= range1 and number <= range2:
+        print('2826')
+        a = 2
+
+    elif number == 2827 and number >= range1 and number <= range2:
+        print('2827')
+        a = 2
+
+    elif number == 2828 and number >= range1 and number <= range2:
+        print('2828')
+        a = 2
+
+    elif number == 2829 and number >= range1 and number <= range2:
+        print('2829')
+        a = 2
+
+    elif number == 2830 and number >= range1 and number <= range2:
+        print('2830')
+        a = 2
+
+    elif number == 2831 and number >= range1 and number <= range2:
+        print('2831')
+        a = 2
+
+    elif number == 2832 and number >= range1 and number <= range2:
+        print('2832')
+        a = 2
+
+    elif number == 2833 and number >= range1 and number <= range2:
+        print('2833')
+        a = 2
+
+    elif number == 2834 and number >= range1 and number <= range2:
+        print('2834')
+        a = 2
+
+    elif number == 2835 and number >= range1 and number <= range2:
+        print('2835')
+        a = 2
+
+    elif number == 2836 and number >= range1 and number <= range2:
+        print('2836')
+        a = 2
+
+    elif number == 2837 and number >= range1 and number <= range2:
+        print('2837')
+        a = 2
+
+    elif number == 2838 and number >= range1 and number <= range2:
+        print('2838')
+        a = 2
+
+    elif number == 2839 and number >= range1 and number <= range2:
+        print('2839')
+        a = 2
+
+    elif number == 2840 and number >= range1 and number <= range2:
+        print('2840')
+        a = 2
+
+    elif number == 2841 and number >= range1 and number <= range2:
+        print('2841')
+        a = 2
+
+    elif number == 2842 and number >= range1 and number <= range2:
+        print('2842')
+        a = 2
+
+    elif number == 2843 and number >= range1 and number <= range2:
+        print('2843')
+        a = 2
+
+    elif number == 2844 and number >= range1 and number <= range2:
+        print('2844')
+        a = 2
+
+    elif number == 2845 and number >= range1 and number <= range2:
+        print('2845')
+        a = 2
+
+    elif number == 2846 and number >= range1 and number <= range2:
+        print('2846')
+        a = 2
+
+    elif number == 2847 and number >= range1 and number <= range2:
+        print('2847')
+        a = 2
+
+    elif number == 2848 and number >= range1 and number <= range2:
+        print('2848')
+        a = 2
+
+    elif number == 2849 and number >= range1 and number <= range2:
+        print('2849')
+        a = 2
+
+    elif number == 2850 and number >= range1 and number <= range2:
+        print('2850')
+        a = 2
+
+    elif number == 2851 and number >= range1 and number <= range2:
+        print('2851')
+        a = 2
+
+    elif number == 2852 and number >= range1 and number <= range2:
+        print('2852')
+        a = 2
+
+    elif number == 2853 and number >= range1 and number <= range2:
+        print('2853')
+        a = 2
+
+    elif number == 2854 and number >= range1 and number <= range2:
+        print('2854')
+        a = 2
+
+    elif number == 2855 and number >= range1 and number <= range2:
+        print('2855')
+        a = 2
+
+    elif number == 2856 and number >= range1 and number <= range2:
+        print('2856')
+        a = 2
+
+    elif number == 2857 and number >= range1 and number <= range2:
+        print('2857')
+        a = 2
+
+    elif number == 2858 and number >= range1 and number <= range2:
+        print('2858')
+        a = 2
+
+    elif number == 2859 and number >= range1 and number <= range2:
+        print('2859')
+        a = 2
+
+    elif number == 2860 and number >= range1 and number <= range2:
+        print('2860')
+        a = 2
+
+    elif number == 2861 and number >= range1 and number <= range2:
+        print('2861')
+        a = 2
+
+    elif number == 2862 and number >= range1 and number <= range2:
+        print('2862')
+        a = 2
+
+    elif number == 2863 and number >= range1 and number <= range2:
+        print('2863')
+        a = 2
+
+    elif number == 2864 and number >= range1 and number <= range2:
+        print('2864')
+        a = 2
+
+    elif number == 2865 and number >= range1 and number <= range2:
+        print('2865')
+        a = 2
+
+    elif number == 2866 and number >= range1 and number <= range2:
+        print('2866')
+        a = 2
+
+    elif number == 2867 and number >= range1 and number <= range2:
+        print('2867')
+        a = 2
+
+    elif number == 2868 and number >= range1 and number <= range2:
+        print('2868')
+        a = 2
+
+    elif number == 2869 and number >= range1 and number <= range2:
+        print('2869')
+        a = 2
+
+    elif number == 2870 and number >= range1 and number <= range2:
+        print('2870')
+        a = 2
+
+    elif number == 2871 and number >= range1 and number <= range2:
+        print('2871')
+        a = 2
+
+    elif number == 2872 and number >= range1 and number <= range2:
+        print('2872')
+        a = 2
+
+    elif number == 2873 and number >= range1 and number <= range2:
+        print('2873')
+        a = 2
+
+    elif number == 2874 and number >= range1 and number <= range2:
+        print('2874')
+        a = 2
+
+    elif number == 2875 and number >= range1 and number <= range2:
+        print('2875')
+        a = 2
+
+    elif number == 2876 and number >= range1 and number <= range2:
+        print('2876')
+        a = 2
+
+    elif number == 2877 and number >= range1 and number <= range2:
+        print('2877')
+        a = 2
+
+    elif number == 2878 and number >= range1 and number <= range2:
+        print('2878')
+        a = 2
+
+    elif number == 2879 and number >= range1 and number <= range2:
+        print('2879')
+        a = 2
+
+    elif number == 2880 and number >= range1 and number <= range2:
+        print('2880')
+        a = 2
+
+    elif number == 2881 and number >= range1 and number <= range2:
+        print('2881')
+        a = 2
+
+    elif number == 2882 and number >= range1 and number <= range2:
+        print('2882')
+        a = 2
+
+    elif number == 2883 and number >= range1 and number <= range2:
+        print('2883')
+        a = 2
+
+    elif number == 2884 and number >= range1 and number <= range2:
+        print('2884')
+        a = 2
+
+    elif number == 2885 and number >= range1 and number <= range2:
+        print('2885')
+        a = 2
+
+    elif number == 2886 and number >= range1 and number <= range2:
+        print('2886')
+        a = 2
+
+    elif number == 2887 and number >= range1 and number <= range2:
+        print('2887')
+        a = 2
+
+    elif number == 2888 and number >= range1 and number <= range2:
+        print('2888')
+        a = 2
+
+    elif number == 2889 and number >= range1 and number <= range2:
+        print('2889')
+        a = 2
+
+    elif number == 2890 and number >= range1 and number <= range2:
+        print('2890')
+        a = 2
+
+    elif number == 2891 and number >= range1 and number <= range2:
+        print('2891')
+        a = 2
+
+    elif number == 2892 and number >= range1 and number <= range2:
+        print('2892')
+        a = 2
+
+    elif number == 2893 and number >= range1 and number <= range2:
+        print('2893')
+        a = 2
+
+    elif number == 2894 and number >= range1 and number <= range2:
+        print('2894')
+        a = 2
+
+    elif number == 2895 and number >= range1 and number <= range2:
+        print('2895')
+        a = 2
+
+    elif number == 2896 and number >= range1 and number <= range2:
+        print('2896')
+        a = 2
+
+    elif number == 2897 and number >= range1 and number <= range2:
+        print('2897')
+        a = 2
+
+    elif number == 2898 and number >= range1 and number <= range2:
+        print('2898')
+        a = 2
+
+    elif number == 2899 and number >= range1 and number <= range2:
+        print('2899')
+        a = 2
+
+    elif number == 2900 and number >= range1 and number <= range2:
+        print('2900')
+        a = 2
+
+    elif number == 2901 and number >= range1 and number <= range2:
+        print('2901')
+        a = 2
+
+    elif number == 2902 and number >= range1 and number <= range2:
+        print('2902')
+        a = 2
+
+    elif number == 2903 and number >= range1 and number <= range2:
+        print('2903')
+        a = 2
+
+    elif number == 2904 and number >= range1 and number <= range2:
+        print('2904')
+        a = 2
+
+    elif number == 2905 and number >= range1 and number <= range2:
+        print('2905')
+        a = 2
+
+    elif number == 2906 and number >= range1 and number <= range2:
+        print('2906')
+        a = 2
+
+    elif number == 2907 and number >= range1 and number <= range2:
+        print('2907')
+        a = 2
+
+    elif number == 2908 and number >= range1 and number <= range2:
+        print('2908')
+        a = 2
+
+    elif number == 2909 and number >= range1 and number <= range2:
+        print('2909')
+        a = 2
+
+    elif number == 2910 and number >= range1 and number <= range2:
+        print('2910')
+        a = 2
+
+    elif number == 2911 and number >= range1 and number <= range2:
+        print('2911')
+        a = 2
+
+    elif number == 2912 and number >= range1 and number <= range2:
+        print('2912')
+        a = 2
+
+    elif number == 2913 and number >= range1 and number <= range2:
+        print('2913')
+        a = 2
+
+    elif number == 2914 and number >= range1 and number <= range2:
+        print('2914')
+        a = 2
+
+    elif number == 2915 and number >= range1 and number <= range2:
+        print('2915')
+        a = 2
+
+    elif number == 2916 and number >= range1 and number <= range2:
+        print('2916')
+        a = 2
+
+    elif number == 2917 and number >= range1 and number <= range2:
+        print('2917')
+        a = 2
+
+    elif number == 2918 and number >= range1 and number <= range2:
+        print('2918')
+        a = 2
+
+    elif number == 2919 and number >= range1 and number <= range2:
+        print('2919')
+        a = 2
+
+    elif number == 2920 and number >= range1 and number <= range2:
+        print('2920')
+        a = 2
+
+    elif number == 2921 and number >= range1 and number <= range2:
+        print('2921')
+        a = 2
+
+    elif number == 2922 and number >= range1 and number <= range2:
+        print('2922')
+        a = 2
+
+    elif number == 2923 and number >= range1 and number <= range2:
+        print('2923')
+        a = 2
+
+    elif number == 2924 and number >= range1 and number <= range2:
+        print('2924')
+        a = 2
+
+    elif number == 2925 and number >= range1 and number <= range2:
+        print('2925')
+        a = 2
+
+    elif number == 2926 and number >= range1 and number <= range2:
+        print('2926')
+        a = 2
+
+    elif number == 2927 and number >= range1 and number <= range2:
+        print('2927')
+        a = 2
+
+    elif number == 2928 and number >= range1 and number <= range2:
+        print('2928')
+        a = 2
+
+    elif number == 2929 and number >= range1 and number <= range2:
+        print('2929')
+        a = 2
+
+    elif number == 2930 and number >= range1 and number <= range2:
+        print('2930')
+        a = 2
+
+    elif number == 2931 and number >= range1 and number <= range2:
+        print('2931')
+        a = 2
+
+    elif number == 2932 and number >= range1 and number <= range2:
+        print('2932')
+        a = 2
+
+    elif number == 2933 and number >= range1 and number <= range2:
+        print('2933')
+        a = 2
+
+    elif number == 2934 and number >= range1 and number <= range2:
+        print('2934')
+        a = 2
+
+    elif number == 2935 and number >= range1 and number <= range2:
+        print('2935')
+        a = 2
+
+    elif number == 2936 and number >= range1 and number <= range2:
+        print('2936')
+        a = 2
+
+    elif number == 2937 and number >= range1 and number <= range2:
+        print('2937')
+        a = 2
+
+    elif number == 2938 and number >= range1 and number <= range2:
+        print('2938')
+        a = 2
+
+    elif number == 2939 and number >= range1 and number <= range2:
+        print('2939')
+        a = 2
+
+    elif number == 2940 and number >= range1 and number <= range2:
+        print('2940')
+        a = 2
+
+    elif number == 2941 and number >= range1 and number <= range2:
+        print('2941')
+        a = 2
+
+    elif number == 2942 and number >= range1 and number <= range2:
+        print('2942')
+        a = 2
+
+    elif number == 2943 and number >= range1 and number <= range2:
+        print('2943')
+        a = 2
+
+    elif number == 2944 and number >= range1 and number <= range2:
+        print('2944')
+        a = 2
+
+    elif number == 2945 and number >= range1 and number <= range2:
+        print('2945')
+        a = 2
+
+    elif number == 2946 and number >= range1 and number <= range2:
+        print('2946')
+        a = 2
+
+    elif number == 2947 and number >= range1 and number <= range2:
+        print('2947')
+        a = 2
+
+    elif number == 2948 and number >= range1 and number <= range2:
+        print('2948')
+        a = 2
+
+    elif number == 2949 and number >= range1 and number <= range2:
+        print('2949')
+        a = 2
+
+    elif number == 2950 and number >= range1 and number <= range2:
+        print('2950')
+        a = 2
+
+    elif number == 2951 and number >= range1 and number <= range2:
+        print('2951')
+        a = 2
+
+    elif number == 2952 and number >= range1 and number <= range2:
+        print('2952')
+        a = 2
+
+    elif number == 2953 and number >= range1 and number <= range2:
+        print('2953')
+        a = 2
+
+    elif number == 2954 and number >= range1 and number <= range2:
+        print('2954')
+        a = 2
+
+    elif number == 2955 and number >= range1 and number <= range2:
+        print('2955')
+        a = 2
+
+    elif number == 2956 and number >= range1 and number <= range2:
+        print('2956')
+        a = 2
+
+    elif number == 2957 and number >= range1 and number <= range2:
+        print('2957')
+        a = 2
+
+    elif number == 2958 and number >= range1 and number <= range2:
+        print('2958')
+        a = 2
+
+    elif number == 2959 and number >= range1 and number <= range2:
+        print('2959')
+        a = 2
+
+    elif number == 2960 and number >= range1 and number <= range2:
+        print('2960')
+        a = 2
+
+    elif number == 2961 and number >= range1 and number <= range2:
+        print('2961')
+        a = 2
+
+    elif number == 2962 and number >= range1 and number <= range2:
+        print('2962')
+        a = 2
+
+    elif number == 2963 and number >= range1 and number <= range2:
+        print('2963')
+        a = 2
+
+    elif number == 2964 and number >= range1 and number <= range2:
+        print('2964')
+        a = 2
+
+    elif number == 2965 and number >= range1 and number <= range2:
+        print('2965')
+        a = 2
+
+    elif number == 2966 and number >= range1 and number <= range2:
+        print('2966')
+        a = 2
+
+    elif number == 2967 and number >= range1 and number <= range2:
+        print('2967')
+        a = 2
+
+    elif number == 2968 and number >= range1 and number <= range2:
+        print('2968')
+        a = 2
+
+    elif number == 2969 and number >= range1 and number <= range2:
+        print('2969')
+        a = 2
+
+    elif number == 2970 and number >= range1 and number <= range2:
+        print('2970')
+        a = 2
+
+    elif number == 2971 and number >= range1 and number <= range2:
+        print('2971')
+        a = 2
+
+    elif number == 2972 and number >= range1 and number <= range2:
+        print('2972')
+        a = 2
+
+    elif number == 2973 and number >= range1 and number <= range2:
+        print('2973')
+        a = 2
+
+    elif number == 2974 and number >= range1 and number <= range2:
+        print('2974')
+        a = 2
+
+    elif number == 2975 and number >= range1 and number <= range2:
+        print('2975')
+        a = 2
+
+    elif number == 2976 and number >= range1 and number <= range2:
+        print('2976')
+        a = 2
+
+    elif number == 2977 and number >= range1 and number <= range2:
+        print('2977')
+        a = 2
+
+    elif number == 2978 and number >= range1 and number <= range2:
+        print('2978')
+        a = 2
+
+    elif number == 2979 and number >= range1 and number <= range2:
+        print('2979')
+        a = 2
+
+    elif number == 2980 and number >= range1 and number <= range2:
+        print('2980')
+        a = 2
+
+    elif number == 2981 and number >= range1 and number <= range2:
+        print('2981')
+        a = 2
+
+    elif number == 2982 and number >= range1 and number <= range2:
+        print('2982')
+        a = 2
+
+    elif number == 2983 and number >= range1 and number <= range2:
+        print('2983')
+        a = 2
+
+    elif number == 2984 and number >= range1 and number <= range2:
+        print('2984')
+        a = 2
+
+    elif number == 2985 and number >= range1 and number <= range2:
+        print('2985')
+        a = 2
+
+    elif number == 2986 and number >= range1 and number <= range2:
+        print('2986')
+        a = 2
+
+    elif number == 2987 and number >= range1 and number <= range2:
+        print('2987')
+        a = 2
+
+    elif number == 2988 and number >= range1 and number <= range2:
+        print('2988')
+        a = 2
+
+    elif number == 2989 and number >= range1 and number <= range2:
+        print('2989')
+        a = 2
+
+    elif number == 2990 and number >= range1 and number <= range2:
+        print('2990')
+        a = 2
+
+    elif number == 2991 and number >= range1 and number <= range2:
+        print('2991')
+        a = 2
+
+    elif number == 2992 and number >= range1 and number <= range2:
+        print('2992')
+        a = 2
+
+    elif number == 2993 and number >= range1 and number <= range2:
+        print('2993')
+        a = 2
+
+    elif number == 2994 and number >= range1 and number <= range2:
+        print('2994')
+        a = 2
+
+    elif number == 2995 and number >= range1 and number <= range2:
+        print('2995')
+        a = 2
+
+    elif number == 2996 and number >= range1 and number <= range2:
+        print('2996')
+        a = 2
+
+    elif number == 2997 and number >= range1 and number <= range2:
+        print('2997')
+        a = 2
+
+    elif number == 2998 and number >= range1 and number <= range2:
+        print('2998')
+        a = 2
+
+    elif number == 2999 and number >= range1 and number <= range2:
+        print('2999')
+        a = 2
+
+    elif number == 3000 and number >= range1 and number <= range2:
+        print('3000')
+        a = 2
+
+    elif number == 3001 and number >= range1 and number <= range2:
+        print('3001')
+        a = 2
+
+    elif number == 3002 and number >= range1 and number <= range2:
+        print('3002')
+        a = 2
+
+    elif number == 3003 and number >= range1 and number <= range2:
+        print('3003')
+        a = 2
+
+    elif number == 3004 and number >= range1 and number <= range2:
+        print('3004')
+        a = 2
+
+    elif number == 3005 and number >= range1 and number <= range2:
+        print('3005')
+        a = 2
+
+    elif number == 3006 and number >= range1 and number <= range2:
+        print('3006')
+        a = 2
+
+    elif number == 3007 and number >= range1 and number <= range2:
+        print('3007')
+        a = 2
+
+    elif number == 3008 and number >= range1 and number <= range2:
+        print('3008')
+        a = 2
+
+    elif number == 3009 and number >= range1 and number <= range2:
+        print('3009')
+        a = 2
+
+    elif number == 3010 and number >= range1 and number <= range2:
+        print('3010')
+        a = 2
+
+    elif number == 3011 and number >= range1 and number <= range2:
+        print('3011')
+        a = 2
+
+    elif number == 3012 and number >= range1 and number <= range2:
+        print('3012')
+        a = 2
+
+    elif number == 3013 and number >= range1 and number <= range2:
+        print('3013')
+        a = 2
+
+    elif number == 3014 and number >= range1 and number <= range2:
+        print('3014')
+        a = 2
+
+    elif number == 3015 and number >= range1 and number <= range2:
+        print('3015')
+        a = 2
+
+    elif number == 3016 and number >= range1 and number <= range2:
+        print('3016')
+        a = 2
+
+    elif number == 3017 and number >= range1 and number <= range2:
+        print('3017')
+        a = 2
+
+    elif number == 3018 and number >= range1 and number <= range2:
+        print('3018')
+        a = 2
+
+    elif number == 3019 and number >= range1 and number <= range2:
+        print('3019')
+        a = 2
+
+    elif number == 3020 and number >= range1 and number <= range2:
+        print('3020')
+        a = 2
+
+    elif number == 3021 and number >= range1 and number <= range2:
+        print('3021')
+        a = 2
+
+    elif number == 3022 and number >= range1 and number <= range2:
+        print('3022')
+        a = 2
+
+    elif number == 3023 and number >= range1 and number <= range2:
+        print('3023')
+        a = 2
+
+    elif number == 3024 and number >= range1 and number <= range2:
+        print('3024')
+        a = 2
+
+    elif number == 3025 and number >= range1 and number <= range2:
+        print('3025')
+        a = 2
+
+    elif number == 3026 and number >= range1 and number <= range2:
+        print('3026')
+        a = 2
+
+    elif number == 3027 and number >= range1 and number <= range2:
+        print('3027')
+        a = 2
+
+    elif number == 3028 and number >= range1 and number <= range2:
+        print('3028')
+        a = 2
+
+    elif number == 3029 and number >= range1 and number <= range2:
+        print('3029')
+        a = 2
+
+    elif number == 3030 and number >= range1 and number <= range2:
+        print('3030')
+        a = 2
+
+    elif number == 3031 and number >= range1 and number <= range2:
+        print('3031')
+        a = 2
+
+    elif number == 3032 and number >= range1 and number <= range2:
+        print('3032')
+        a = 2
+
+    elif number == 3033 and number >= range1 and number <= range2:
+        print('3033')
+        a = 2
+
+    elif number == 3034 and number >= range1 and number <= range2:
+        print('3034')
+        a = 2
+
+    elif number == 3035 and number >= range1 and number <= range2:
+        print('3035')
+        a = 2
+
+    elif number == 3036 and number >= range1 and number <= range2:
+        print('3036')
+        a = 2
+
+    elif number == 3037 and number >= range1 and number <= range2:
+        print('3037')
+        a = 2
+
+    elif number == 3038 and number >= range1 and number <= range2:
+        print('3038')
+        a = 2
+
+    elif number == 3039 and number >= range1 and number <= range2:
+        print('3039')
+        a = 2
+
+    elif number == 3040 and number >= range1 and number <= range2:
+        print('3040')
+        a = 2
+
+    elif number == 3041 and number >= range1 and number <= range2:
+        print('3041')
+        a = 2
+
+    elif number == 3042 and number >= range1 and number <= range2:
+        print('3042')
+        a = 2
+
+    elif number == 3043 and number >= range1 and number <= range2:
+        print('3043')
+        a = 2
+
+    elif number == 3044 and number >= range1 and number <= range2:
+        print('3044')
+        a = 2
+
+    elif number == 3045 and number >= range1 and number <= range2:
+        print('3045')
+        a = 2
+
+    elif number == 3046 and number >= range1 and number <= range2:
+        print('3046')
+        a = 2
+
+    elif number == 3047 and number >= range1 and number <= range2:
+        print('3047')
+        a = 2
+
+    elif number == 3048 and number >= range1 and number <= range2:
+        print('3048')
+        a = 2
+
+    elif number == 3049 and number >= range1 and number <= range2:
+        print('3049')
+        a = 2
+
+    elif number == 3050 and number >= range1 and number <= range2:
+        print('3050')
+        a = 2
+
+    elif number == 3051 and number >= range1 and number <= range2:
+        print('3051')
+        a = 2
+
+    elif number == 3052 and number >= range1 and number <= range2:
+        print('3052')
+        a = 2
+
+    elif number == 3053 and number >= range1 and number <= range2:
+        print('3053')
+        a = 2
+
+    elif number == 3054 and number >= range1 and number <= range2:
+        print('3054')
+        a = 2
+
+    elif number == 3055 and number >= range1 and number <= range2:
+        print('3055')
+        a = 2
+
+    elif number == 3056 and number >= range1 and number <= range2:
+        print('3056')
+        a = 2
+
+    elif number == 3057 and number >= range1 and number <= range2:
+        print('3057')
+        a = 2
+
+    elif number == 3058 and number >= range1 and number <= range2:
+        print('3058')
+        a = 2
+
+    elif number == 3059 and number >= range1 and number <= range2:
+        print('3059')
+        a = 2
+
+    elif number == 3060 and number >= range1 and number <= range2:
+        print('3060')
+        a = 2
+
+    elif number == 3061 and number >= range1 and number <= range2:
+        print('3061')
+        a = 2
+
+    elif number == 3062 and number >= range1 and number <= range2:
+        print('3062')
+        a = 2
+
+    elif number == 3063 and number >= range1 and number <= range2:
+        print('3063')
+        a = 2
+
+    elif number == 3064 and number >= range1 and number <= range2:
+        print('3064')
+        a = 2
+
+    elif number == 3065 and number >= range1 and number <= range2:
+        print('3065')
+        a = 2
+
+    elif number == 3066 and number >= range1 and number <= range2:
+        print('3066')
+        a = 2
+
+    elif number == 3067 and number >= range1 and number <= range2:
+        print('3067')
+        a = 2
+
+    elif number == 3068 and number >= range1 and number <= range2:
+        print('3068')
+        a = 2
+
+    elif number == 3069 and number >= range1 and number <= range2:
+        print('3069')
+        a = 2
+
+    elif number == 3070 and number >= range1 and number <= range2:
+        print('3070')
+        a = 2
+
+    elif number == 3071 and number >= range1 and number <= range2:
+        print('3071')
+        a = 2
+
+    elif number == 3072 and number >= range1 and number <= range2:
+        print('3072')
+        a = 2
+
+    elif number == 3073 and number >= range1 and number <= range2:
+        print('3073')
+        a = 2
+
+    elif number == 3074 and number >= range1 and number <= range2:
+        print('3074')
+        a = 2
+
+    elif number == 3075 and number >= range1 and number <= range2:
+        print('3075')
+        a = 2
+
+    elif number == 3076 and number >= range1 and number <= range2:
+        print('3076')
+        a = 2
+
+    elif number == 3077 and number >= range1 and number <= range2:
+        print('3077')
+        a = 2
+
+    elif number == 3078 and number >= range1 and number <= range2:
+        print('3078')
+        a = 2
+
+    elif number == 3079 and number >= range1 and number <= range2:
+        print('3079')
+        a = 2
+
+    elif number == 3080 and number >= range1 and number <= range2:
+        print('3080')
+        a = 2
+
+    elif number == 3081 and number >= range1 and number <= range2:
+        print('3081')
+        a = 2
+
+    elif number == 3082 and number >= range1 and number <= range2:
+        print('3082')
+        a = 2
+
+    elif number == 3083 and number >= range1 and number <= range2:
+        print('3083')
+        a = 2
+
+    elif number == 3084 and number >= range1 and number <= range2:
+        print('3084')
+        a = 2
+
+    elif number == 3085 and number >= range1 and number <= range2:
+        print('3085')
+        a = 2
+
+    elif number == 3086 and number >= range1 and number <= range2:
+        print('3086')
+        a = 2
+
+    elif number == 3087 and number >= range1 and number <= range2:
+        print('3087')
+        a = 2
+
+    elif number == 3088 and number >= range1 and number <= range2:
+        print('3088')
+        a = 2
+
+    elif number == 3089 and number >= range1 and number <= range2:
+        print('3089')
+        a = 2
+
+    elif number == 3090 and number >= range1 and number <= range2:
+        print('3090')
+        a = 2
+
+    elif number == 3091 and number >= range1 and number <= range2:
+        print('3091')
+        a = 2
+
+    elif number == 3092 and number >= range1 and number <= range2:
+        print('3092')
+        a = 2
+
+    elif number == 3093 and number >= range1 and number <= range2:
+        print('3093')
+        a = 2
+
+    elif number == 3094 and number >= range1 and number <= range2:
+        print('3094')
+        a = 2
+
+    elif number == 3095 and number >= range1 and number <= range2:
+        print('3095')
+        a = 2
+
+    elif number == 3096 and number >= range1 and number <= range2:
+        print('3096')
+        a = 2
+
+    elif number == 3097 and number >= range1 and number <= range2:
+        print('3097')
+        a = 2
+
+    elif number == 3098 and number >= range1 and number <= range2:
+        print('3098')
+        a = 2
+
+    elif number == 3099 and number >= range1 and number <= range2:
+        print('3099')
+        a = 2
+
+    elif number == 3100 and number >= range1 and number <= range2:
+        print('3100')
+        a = 2
+
+    elif number == 3101 and number >= range1 and number <= range2:
+        print('3101')
+        a = 2
+
+    elif number == 3102 and number >= range1 and number <= range2:
+        print('3102')
+        a = 2
+
+    elif number == 3103 and number >= range1 and number <= range2:
+        print('3103')
+        a = 2
+
+    elif number == 3104 and number >= range1 and number <= range2:
+        print('3104')
+        a = 2
+
+    elif number == 3105 and number >= range1 and number <= range2:
+        print('3105')
+        a = 2
+
+    elif number == 3106 and number >= range1 and number <= range2:
+        print('3106')
+        a = 2
+
+    elif number == 3107 and number >= range1 and number <= range2:
+        print('3107')
+        a = 2
+
+    elif number == 3108 and number >= range1 and number <= range2:
+        print('3108')
+        a = 2
+
+    elif number == 3109 and number >= range1 and number <= range2:
+        print('3109')
+        a = 2
+
+    elif number == 3110 and number >= range1 and number <= range2:
+        print('3110')
+        a = 2
+
+    elif number == 3111 and number >= range1 and number <= range2:
+        print('3111')
+        a = 2
+
+    elif number == 3112 and number >= range1 and number <= range2:
+        print('3112')
+        a = 2
+
+    elif number == 3113 and number >= range1 and number <= range2:
+        print('3113')
+        a = 2
+
+    elif number == 3114 and number >= range1 and number <= range2:
+        print('3114')
+        a = 2
+
+    elif number == 3115 and number >= range1 and number <= range2:
+        print('3115')
+        a = 2
+
+    elif number == 3116 and number >= range1 and number <= range2:
+        print('3116')
+        a = 2
+
+    elif number == 3117 and number >= range1 and number <= range2:
+        print('3117')
+        a = 2
+
+    elif number == 3118 and number >= range1 and number <= range2:
+        print('3118')
+        a = 2
+
+    elif number == 3119 and number >= range1 and number <= range2:
+        print('3119')
+        a = 2
+
+    elif number == 3120 and number >= range1 and number <= range2:
+        print('3120')
+        a = 2
+
+    elif number == 3121 and number >= range1 and number <= range2:
+        print('3121')
+        a = 2
+
+    elif number == 3122 and number >= range1 and number <= range2:
+        print('3122')
+        a = 2
+
+    elif number == 3123 and number >= range1 and number <= range2:
+        print('3123')
+        a = 2
+
+    elif number == 3124 and number >= range1 and number <= range2:
+        print('3124')
+        a = 2
+
+    elif number == 3125 and number >= range1 and number <= range2:
+        print('3125')
+        a = 2
+
+    elif number == 3126 and number >= range1 and number <= range2:
+        print('3126')
+        a = 2
+
+    elif number == 3127 and number >= range1 and number <= range2:
+        print('3127')
+        a = 2
+
+    elif number == 3128 and number >= range1 and number <= range2:
+        print('3128')
+        a = 2
+
+    elif number == 3129 and number >= range1 and number <= range2:
+        print('3129')
+        a = 2
+
+    elif number == 3130 and number >= range1 and number <= range2:
+        print('3130')
+        a = 2
+
+    elif number == 3131 and number >= range1 and number <= range2:
+        print('3131')
+        a = 2
+
+    elif number == 3132 and number >= range1 and number <= range2:
+        print('3132')
+        a = 2
+
+    elif number == 3133 and number >= range1 and number <= range2:
+        print('3133')
+        a = 2
+
+    elif number == 3134 and number >= range1 and number <= range2:
+        print('3134')
+        a = 2
+
+    elif number == 3135 and number >= range1 and number <= range2:
+        print('3135')
+        a = 2
+
+    elif number == 3136 and number >= range1 and number <= range2:
+        print('3136')
+        a = 2
+
+    elif number == 3137 and number >= range1 and number <= range2:
+        print('3137')
+        a = 2
+
+    elif number == 3138 and number >= range1 and number <= range2:
+        print('3138')
+        a = 2
+
+    elif number == 3139 and number >= range1 and number <= range2:
+        print('3139')
+        a = 2
+
+    elif number == 3140 and number >= range1 and number <= range2:
+        print('3140')
+        a = 2
+
+    elif number == 3141 and number >= range1 and number <= range2:
+        print('3141')
+        a = 2
+
+    elif number == 3142 and number >= range1 and number <= range2:
+        print('3142')
+        a = 2
+
+    elif number == 3143 and number >= range1 and number <= range2:
+        print('3143')
+        a = 2
+
+    elif number == 3144 and number >= range1 and number <= range2:
+        print('3144')
+        a = 2
+
+    elif number == 3145 and number >= range1 and number <= range2:
+        print('3145')
+        a = 2
+
+    elif number == 3146 and number >= range1 and number <= range2:
+        print('3146')
+        a = 2
+
+    elif number == 3147 and number >= range1 and number <= range2:
+        print('3147')
+        a = 2
+
+    elif number == 3148 and number >= range1 and number <= range2:
+        print('3148')
+        a = 2
+
+    elif number == 3149 and number >= range1 and number <= range2:
+        print('3149')
+        a = 2
+
+    elif number == 3150 and number >= range1 and number <= range2:
+        print('3150')
+        a = 2
+
+    elif number == 3151 and number >= range1 and number <= range2:
+        print('3151')
+        a = 2
+
+    elif number == 3152 and number >= range1 and number <= range2:
+        print('3152')
+        a = 2
+
+    elif number == 3153 and number >= range1 and number <= range2:
+        print('3153')
+        a = 2
+
+    elif number == 3154 and number >= range1 and number <= range2:
+        print('3154')
+        a = 2
+
+    elif number == 3155 and number >= range1 and number <= range2:
+        print('3155')
+        a = 2
+
+    elif number == 3156 and number >= range1 and number <= range2:
+        print('3156')
+        a = 2
+
+    elif number == 3157 and number >= range1 and number <= range2:
+        print('3157')
+        a = 2
+
+    elif number == 3158 and number >= range1 and number <= range2:
+        print('3158')
+        a = 2
+
+    elif number == 3159 and number >= range1 and number <= range2:
+        print('3159')
+        a = 2
+
+    elif number == 3160 and number >= range1 and number <= range2:
+        print('3160')
+        a = 2
+
+    elif number == 3161 and number >= range1 and number <= range2:
+        print('3161')
+        a = 2
+
+    elif number == 3162 and number >= range1 and number <= range2:
+        print('3162')
+        a = 2
+
+    elif number == 3163 and number >= range1 and number <= range2:
+        print('3163')
+        a = 2
+
+    elif number == 3164 and number >= range1 and number <= range2:
+        print('3164')
+        a = 2
+
+    elif number == 3165 and number >= range1 and number <= range2:
+        print('3165')
+        a = 2
+
+    elif number == 3166 and number >= range1 and number <= range2:
+        print('3166')
+        a = 2
+
+    elif number == 3167 and number >= range1 and number <= range2:
+        print('3167')
+        a = 2
+
+    elif number == 3168 and number >= range1 and number <= range2:
+        print('3168')
+        a = 2
+
+    elif number == 3169 and number >= range1 and number <= range2:
+        print('3169')
+        a = 2
+
+    elif number == 3170 and number >= range1 and number <= range2:
+        print('3170')
+        a = 2
+
+    elif number == 3171 and number >= range1 and number <= range2:
+        print('3171')
+        a = 2
+
+    elif number == 3172 and number >= range1 and number <= range2:
+        print('3172')
+        a = 2
+
+    elif number == 3173 and number >= range1 and number <= range2:
+        print('3173')
+        a = 2
+
+    elif number == 3174 and number >= range1 and number <= range2:
+        print('3174')
+        a = 2
+
+    elif number == 3175 and number >= range1 and number <= range2:
+        print('3175')
+        a = 2
+
+    elif number == 3176 and number >= range1 and number <= range2:
+        print('3176')
+        a = 2
+
+    elif number == 3177 and number >= range1 and number <= range2:
+        print('3177')
+        a = 2
+
+    elif number == 3178 and number >= range1 and number <= range2:
+        print('3178')
+        a = 2
+
+    elif number == 3179 and number >= range1 and number <= range2:
+        print('3179')
+        a = 2
+
+    elif number == 3180 and number >= range1 and number <= range2:
+        print('3180')
+        a = 2
+
+    elif number == 3181 and number >= range1 and number <= range2:
+        print('3181')
+        a = 2
+
+    elif number == 3182 and number >= range1 and number <= range2:
+        print('3182')
+        a = 2
+
+    elif number == 3183 and number >= range1 and number <= range2:
+        print('3183')
+        a = 2
+
+    elif number == 3184 and number >= range1 and number <= range2:
+        print('3184')
+        a = 2
+
+    elif number == 3185 and number >= range1 and number <= range2:
+        print('3185')
+        a = 2
+
+    elif number == 3186 and number >= range1 and number <= range2:
+        print('3186')
+        a = 2
+
+    elif number == 3187 and number >= range1 and number <= range2:
+        print('3187')
+        a = 2
+
+    elif number == 3188 and number >= range1 and number <= range2:
+        print('3188')
+        a = 2
+
+    elif number == 3189 and number >= range1 and number <= range2:
+        print('3189')
+        a = 2
+
+    elif number == 3190 and number >= range1 and number <= range2:
+        print('3190')
+        a = 2
+
+    elif number == 3191 and number >= range1 and number <= range2:
+        print('3191')
+        a = 2
+
+    elif number == 3192 and number >= range1 and number <= range2:
+        print('3192')
+        a = 2
+
+    elif number == 3193 and number >= range1 and number <= range2:
+        print('3193')
+        a = 2
+
+    elif number == 3194 and number >= range1 and number <= range2:
+        print('3194')
+        a = 2
+
+    elif number == 3195 and number >= range1 and number <= range2:
+        print('3195')
+        a = 2
+
+    elif number == 3196 and number >= range1 and number <= range2:
+        print('3196')
+        a = 2
+
+    elif number == 3197 and number >= range1 and number <= range2:
+        print('3197')
+        a = 2
+
+    elif number == 3198 and number >= range1 and number <= range2:
+        print('3198')
+        a = 2
+
+    elif number == 3199 and number >= range1 and number <= range2:
+        print('3199')
+        a = 2
+
+    elif number == 3200 and number >= range1 and number <= range2:
+        print('3200')
+        a = 2
+
+    elif number == 3201 and number >= range1 and number <= range2:
+        print('3201')
+        a = 2
+
+    elif number == 3202 and number >= range1 and number <= range2:
+        print('3202')
+        a = 2
+
+    elif number == 3203 and number >= range1 and number <= range2:
+        print('3203')
+        a = 2
+
+    elif number == 3204 and number >= range1 and number <= range2:
+        print('3204')
+        a = 2
+
+    elif number == 3205 and number >= range1 and number <= range2:
+        print('3205')
+        a = 2
+
+    elif number == 3206 and number >= range1 and number <= range2:
+        print('3206')
+        a = 2
+
+    elif number == 3207 and number >= range1 and number <= range2:
+        print('3207')
+        a = 2
+
+    elif number == 3208 and number >= range1 and number <= range2:
+        print('3208')
+        a = 2
+
+    elif number == 3209 and number >= range1 and number <= range2:
+        print('3209')
+        a = 2
+
+    elif number == 3210 and number >= range1 and number <= range2:
+        print('3210')
+        a = 2
+
+    elif number == 3211 and number >= range1 and number <= range2:
+        print('3211')
+        a = 2
+
+    elif number == 3212 and number >= range1 and number <= range2:
+        print('3212')
+        a = 2
+
+    elif number == 3213 and number >= range1 and number <= range2:
+        print('3213')
+        a = 2
+
+    elif number == 3214 and number >= range1 and number <= range2:
+        print('3214')
+        a = 2
+
+    elif number == 3215 and number >= range1 and number <= range2:
+        print('3215')
+        a = 2
+
+    elif number == 3216 and number >= range1 and number <= range2:
+        print('3216')
+        a = 2
+
+    elif number == 3217 and number >= range1 and number <= range2:
+        print('3217')
+        a = 2
+
+    elif number == 3218 and number >= range1 and number <= range2:
+        print('3218')
+        a = 2
+
+    elif number == 3219 and number >= range1 and number <= range2:
+        print('3219')
+        a = 2
+
+    elif number == 3220 and number >= range1 and number <= range2:
+        print('3220')
+        a = 2
+
+    elif number == 3221 and number >= range1 and number <= range2:
+        print('3221')
+        a = 2
+
+    elif number == 3222 and number >= range1 and number <= range2:
+        print('3222')
+        a = 2
+
+    elif number == 3223 and number >= range1 and number <= range2:
+        print('3223')
+        a = 2
+
+    elif number == 3224 and number >= range1 and number <= range2:
+        print('3224')
+        a = 2
+
+    elif number == 3225 and number >= range1 and number <= range2:
+        print('3225')
+        a = 2
+
+    elif number == 3226 and number >= range1 and number <= range2:
+        print('3226')
+        a = 2
+
+    elif number == 3227 and number >= range1 and number <= range2:
+        print('3227')
+        a = 2
+
+    elif number == 3228 and number >= range1 and number <= range2:
+        print('3228')
+        a = 2
+
+    elif number == 3229 and number >= range1 and number <= range2:
+        print('3229')
+        a = 2
+
+    elif number == 3230 and number >= range1 and number <= range2:
+        print('3230')
+        a = 2
+
+    elif number == 3231 and number >= range1 and number <= range2:
+        print('3231')
+        a = 2
+
+    elif number == 3232 and number >= range1 and number <= range2:
+        print('3232')
+        a = 2
+
+    elif number == 3233 and number >= range1 and number <= range2:
+        print('3233')
+        a = 2
+
+    elif number == 3234 and number >= range1 and number <= range2:
+        print('3234')
+        a = 2
+
+    elif number == 3235 and number >= range1 and number <= range2:
+        print('3235')
+        a = 2
+
+    elif number == 3236 and number >= range1 and number <= range2:
+        print('3236')
+        a = 2
+
+    elif number == 3237 and number >= range1 and number <= range2:
+        print('3237')
+        a = 2
+
+    elif number == 3238 and number >= range1 and number <= range2:
+        print('3238')
+        a = 2
+
+    elif number == 3239 and number >= range1 and number <= range2:
+        print('3239')
+        a = 2
+
+    elif number == 3240 and number >= range1 and number <= range2:
+        print('3240')
+        a = 2
+
+    elif number == 3241 and number >= range1 and number <= range2:
+        print('3241')
+        a = 2
+
+    elif number == 3242 and number >= range1 and number <= range2:
+        print('3242')
+        a = 2
+
+    elif number == 3243 and number >= range1 and number <= range2:
+        print('3243')
+        a = 2
+
+    elif number == 3244 and number >= range1 and number <= range2:
+        print('3244')
+        a = 2
+
+    elif number == 3245 and number >= range1 and number <= range2:
+        print('3245')
+        a = 2
+
+    elif number == 3246 and number >= range1 and number <= range2:
+        print('3246')
+        a = 2
+
+    elif number == 3247 and number >= range1 and number <= range2:
+        print('3247')
+        a = 2
+
+    elif number == 3248 and number >= range1 and number <= range2:
+        print('3248')
+        a = 2
+
+    elif number == 3249 and number >= range1 and number <= range2:
+        print('3249')
+        a = 2
+
+    elif number == 3250 and number >= range1 and number <= range2:
+        print('3250')
+        a = 2
+
+    elif number == 3251 and number >= range1 and number <= range2:
+        print('3251')
+        a = 2
+
+    elif number == 3252 and number >= range1 and number <= range2:
+        print('3252')
+        a = 2
+
+    elif number == 3253 and number >= range1 and number <= range2:
+        print('3253')
+        a = 2
+
+    elif number == 3254 and number >= range1 and number <= range2:
+        print('3254')
+        a = 2
+
+    elif number == 3255 and number >= range1 and number <= range2:
+        print('3255')
+        a = 2
+
+    elif number == 3256 and number >= range1 and number <= range2:
+        print('3256')
+        a = 2
+
+    elif number == 3257 and number >= range1 and number <= range2:
+        print('3257')
+        a = 2
+
+    elif number == 3258 and number >= range1 and number <= range2:
+        print('3258')
+        a = 2
+
+    elif number == 3259 and number >= range1 and number <= range2:
+        print('3259')
+        a = 2
+
+    elif number == 3260 and number >= range1 and number <= range2:
+        print('3260')
+        a = 2
+
+    elif number == 3261 and number >= range1 and number <= range2:
+        print('3261')
+        a = 2
+
+    elif number == 3262 and number >= range1 and number <= range2:
+        print('3262')
+        a = 2
+
+    elif number == 3263 and number >= range1 and number <= range2:
+        print('3263')
+        a = 2
+
+    elif number == 3264 and number >= range1 and number <= range2:
+        print('3264')
+        a = 2
+
+    elif number == 3265 and number >= range1 and number <= range2:
+        print('3265')
+        a = 2
+
+    elif number == 3266 and number >= range1 and number <= range2:
+        print('3266')
+        a = 2
+
+    elif number == 3267 and number >= range1 and number <= range2:
+        print('3267')
+        a = 2
+
+    elif number == 3268 and number >= range1 and number <= range2:
+        print('3268')
+        a = 2
+
+    elif number == 3269 and number >= range1 and number <= range2:
+        print('3269')
+        a = 2
+
+    elif number == 3270 and number >= range1 and number <= range2:
+        print('3270')
+        a = 2
+
+    elif number == 3271 and number >= range1 and number <= range2:
+        print('3271')
+        a = 2
+
+    elif number == 3272 and number >= range1 and number <= range2:
+        print('3272')
+        a = 2
+
+    elif number == 3273 and number >= range1 and number <= range2:
+        print('3273')
+        a = 2
+
+    elif number == 3274 and number >= range1 and number <= range2:
+        print('3274')
+        a = 2
+
+    elif number == 3275 and number >= range1 and number <= range2:
+        print('3275')
+        a = 2
+
+    elif number == 3276 and number >= range1 and number <= range2:
+        print('3276')
+        a = 2
+
+    elif number == 3277 and number >= range1 and number <= range2:
+        print('3277')
+        a = 2
+
+    elif number == 3278 and number >= range1 and number <= range2:
+        print('3278')
+        a = 2
+
+    elif number == 3279 and number >= range1 and number <= range2:
+        print('3279')
+        a = 2
+
+    elif number == 3280 and number >= range1 and number <= range2:
+        print('3280')
+        a = 2
+
+    elif number == 3281 and number >= range1 and number <= range2:
+        print('3281')
+        a = 2
+
+    elif number == 3282 and number >= range1 and number <= range2:
+        print('3282')
+        a = 2
+
+    elif number == 3283 and number >= range1 and number <= range2:
+        print('3283')
+        a = 2
+
+    elif number == 3284 and number >= range1 and number <= range2:
+        print('3284')
+        a = 2
+
+    elif number == 3285 and number >= range1 and number <= range2:
+        print('3285')
+        a = 2
+
+    elif number == 3286 and number >= range1 and number <= range2:
+        print('3286')
+        a = 2
+
+    elif number == 3287 and number >= range1 and number <= range2:
+        print('3287')
+        a = 2
+
+    elif number == 3288 and number >= range1 and number <= range2:
+        print('3288')
+        a = 2
+
+    elif number == 3289 and number >= range1 and number <= range2:
+        print('3289')
+        a = 2
+
+    elif number == 3290 and number >= range1 and number <= range2:
+        print('3290')
+        a = 2
+
+    elif number == 3291 and number >= range1 and number <= range2:
+        print('3291')
+        a = 2
+
+    elif number == 3292 and number >= range1 and number <= range2:
+        print('3292')
+        a = 2
+
+    elif number == 3293 and number >= range1 and number <= range2:
+        print('3293')
+        a = 2
+
+    elif number == 3294 and number >= range1 and number <= range2:
+        print('3294')
+        a = 2
+
+    elif number == 3295 and number >= range1 and number <= range2:
+        print('3295')
+        a = 2
+
+    elif number == 3296 and number >= range1 and number <= range2:
+        print('3296')
+        a = 2
+
+    elif number == 3297 and number >= range1 and number <= range2:
+        print('3297')
+        a = 2
+
+    elif number == 3298 and number >= range1 and number <= range2:
+        print('3298')
+        a = 2
+
+    elif number == 3299 and number >= range1 and number <= range2:
+        print('3299')
+        a = 2
+
+    elif number == 3300 and number >= range1 and number <= range2:
+        print('3300')
+        a = 2
+
+    elif number == 3301 and number >= range1 and number <= range2:
+        print('3301')
+        a = 2
+
+    elif number == 3302 and number >= range1 and number <= range2:
+        print('3302')
+        a = 2
+
+    elif number == 3303 and number >= range1 and number <= range2:
+        print('3303')
+        a = 2
+
+    elif number == 3304 and number >= range1 and number <= range2:
+        print('3304')
+        a = 2
+
+    elif number == 3305 and number >= range1 and number <= range2:
+        print('3305')
+        a = 2
+
+    elif number == 3306 and number >= range1 and number <= range2:
+        print('3306')
+        a = 2
+
+    elif number == 3307 and number >= range1 and number <= range2:
+        print('3307')
+        a = 2
+
+    elif number == 3308 and number >= range1 and number <= range2:
+        print('3308')
+        a = 2
+
+    elif number == 3309 and number >= range1 and number <= range2:
+        print('3309')
+        a = 2
+
+    elif number == 3310 and number >= range1 and number <= range2:
+        print('3310')
+        a = 2
+
+    elif number == 3311 and number >= range1 and number <= range2:
+        print('3311')
+        a = 2
+
+    elif number == 3312 and number >= range1 and number <= range2:
+        print('3312')
+        a = 2
+
+    elif number == 3313 and number >= range1 and number <= range2:
+        print('3313')
+        a = 2
+
+    elif number == 3314 and number >= range1 and number <= range2:
+        print('3314')
+        a = 2
+
+    elif number == 3315 and number >= range1 and number <= range2:
+        print('3315')
+        a = 2
+
+    elif number == 3316 and number >= range1 and number <= range2:
+        print('3316')
+        a = 2
+
+    elif number == 3317 and number >= range1 and number <= range2:
+        print('3317')
+        a = 2
+
+    elif number == 3318 and number >= range1 and number <= range2:
+        print('3318')
+        a = 2
+
+    elif number == 3319 and number >= range1 and number <= range2:
+        print('3319')
+        a = 2
+
+    elif number == 3320 and number >= range1 and number <= range2:
+        print('3320')
+        a = 2
+
+    elif number == 3321 and number >= range1 and number <= range2:
+        print('3321')
+        a = 2
+
+    elif number == 3322 and number >= range1 and number <= range2:
+        print('3322')
+        a = 2
+
+    elif number == 3323 and number >= range1 and number <= range2:
+        print('3323')
+        a = 2
+
+    elif number == 3324 and number >= range1 and number <= range2:
+        print('3324')
+        a = 2
+
+    elif number == 3325 and number >= range1 and number <= range2:
+        print('3325')
+        a = 2
+
+    elif number == 3326 and number >= range1 and number <= range2:
+        print('3326')
+        a = 2
+
+    elif number == 3327 and number >= range1 and number <= range2:
+        print('3327')
+        a = 2
+
+    elif number == 3328 and number >= range1 and number <= range2:
+        print('3328')
+        a = 2
+
+    elif number == 3329 and number >= range1 and number <= range2:
+        print('3329')
+        a = 2
+
+    elif number == 3330 and number >= range1 and number <= range2:
+        print('3330')
+        a = 2
+
+    elif number == 3331 and number >= range1 and number <= range2:
+        print('3331')
+        a = 2
+
+    elif number == 3332 and number >= range1 and number <= range2:
+        print('3332')
+        a = 2
+
+    elif number == 3333 and number >= range1 and number <= range2:
+        print('3333')
+        a = 2
+
+    elif number == 3334 and number >= range1 and number <= range2:
+        print('3334')
+        a = 2
+
+    elif number == 3335 and number >= range1 and number <= range2:
+        print('3335')
+        a = 2
+
+    elif number == 3336 and number >= range1 and number <= range2:
+        print('3336')
+        a = 2
+
+    elif number == 3337 and number >= range1 and number <= range2:
+        print('3337')
+        a = 2
+
+    elif number == 3338 and number >= range1 and number <= range2:
+        print('3338')
+        a = 2
+
+    elif number == 3339 and number >= range1 and number <= range2:
+        print('3339')
+        a = 2
+
+    elif number == 3340 and number >= range1 and number <= range2:
+        print('3340')
+        a = 2
+
+    elif number == 3341 and number >= range1 and number <= range2:
+        print('3341')
+        a = 2
+
+    elif number == 3342 and number >= range1 and number <= range2:
+        print('3342')
+        a = 2
+
+    elif number == 3343 and number >= range1 and number <= range2:
+        print('3343')
+        a = 2
+
+    elif number == 3344 and number >= range1 and number <= range2:
+        print('3344')
+        a = 2
+
+    elif number == 3345 and number >= range1 and number <= range2:
+        print('3345')
+        a = 2
+
+    elif number == 3346 and number >= range1 and number <= range2:
+        print('3346')
+        a = 2
+
+    elif number == 3347 and number >= range1 and number <= range2:
+        print('3347')
+        a = 2
+
+    elif number == 3348 and number >= range1 and number <= range2:
+        print('3348')
+        a = 2
+
+    elif number == 3349 and number >= range1 and number <= range2:
+        print('3349')
+        a = 2
+
+    elif number == 3350 and number >= range1 and number <= range2:
+        print('3350')
+        a = 2
+
+    elif number == 3351 and number >= range1 and number <= range2:
+        print('3351')
+        a = 2
+
+    elif number == 3352 and number >= range1 and number <= range2:
+        print('3352')
+        a = 2
+
+    elif number == 3353 and number >= range1 and number <= range2:
+        print('3353')
+        a = 2
+
+    elif number == 3354 and number >= range1 and number <= range2:
+        print('3354')
+        a = 2
+
+    elif number == 3355 and number >= range1 and number <= range2:
+        print('3355')
+        a = 2
+
+    elif number == 3356 and number >= range1 and number <= range2:
+        print('3356')
+        a = 2
+
+    elif number == 3357 and number >= range1 and number <= range2:
+        print('3357')
+        a = 2
+
+    elif number == 3358 and number >= range1 and number <= range2:
+        print('3358')
+        a = 2
+
+    elif number == 3359 and number >= range1 and number <= range2:
+        print('3359')
+        a = 2
+
+    elif number == 3360 and number >= range1 and number <= range2:
+        print('3360')
+        a = 2
+
+    elif number == 3361 and number >= range1 and number <= range2:
+        print('3361')
+        a = 2
+
+    elif number == 3362 and number >= range1 and number <= range2:
+        print('3362')
+        a = 2
+
+    elif number == 3363 and number >= range1 and number <= range2:
+        print('3363')
+        a = 2
+
+    elif number == 3364 and number >= range1 and number <= range2:
+        print('3364')
+        a = 2
+
+    elif number == 3365 and number >= range1 and number <= range2:
+        print('3365')
+        a = 2
+
+    elif number == 3366 and number >= range1 and number <= range2:
+        print('3366')
+        a = 2
+
+    elif number == 3367 and number >= range1 and number <= range2:
+        print('3367')
+        a = 2
+
+    elif number == 3368 and number >= range1 and number <= range2:
+        print('3368')
+        a = 2
+
+    elif number == 3369 and number >= range1 and number <= range2:
+        print('3369')
+        a = 2
+
+    elif number == 3370 and number >= range1 and number <= range2:
+        print('3370')
+        a = 2
+
+    elif number == 3371 and number >= range1 and number <= range2:
+        print('3371')
+        a = 2
+
+    elif number == 3372 and number >= range1 and number <= range2:
+        print('3372')
+        a = 2
+
+    elif number == 3373 and number >= range1 and number <= range2:
+        print('3373')
+        a = 2
+
+    elif number == 3374 and number >= range1 and number <= range2:
+        print('3374')
+        a = 2
+
+    elif number == 3375 and number >= range1 and number <= range2:
+        print('3375')
+        a = 2
+
+    elif number == 3376 and number >= range1 and number <= range2:
+        print('3376')
+        a = 2
+
+    elif number == 3377 and number >= range1 and number <= range2:
+        print('3377')
+        a = 2
+
+    elif number == 3378 and number >= range1 and number <= range2:
+        print('3378')
+        a = 2
+
+    elif number == 3379 and number >= range1 and number <= range2:
+        print('3379')
+        a = 2
+
+    elif number == 3380 and number >= range1 and number <= range2:
+        print('3380')
+        a = 2
+
+    elif number == 3381 and number >= range1 and number <= range2:
+        print('3381')
+        a = 2
+
+    elif number == 3382 and number >= range1 and number <= range2:
+        print('3382')
+        a = 2
+
+    elif number == 3383 and number >= range1 and number <= range2:
+        print('3383')
+        a = 2
+
+    elif number == 3384 and number >= range1 and number <= range2:
+        print('3384')
+        a = 2
+
+    elif number == 3385 and number >= range1 and number <= range2:
+        print('3385')
+        a = 2
+
+    elif number == 3386 and number >= range1 and number <= range2:
+        print('3386')
+        a = 2
+
+    elif number == 3387 and number >= range1 and number <= range2:
+        print('3387')
+        a = 2
+
+    elif number == 3388 and number >= range1 and number <= range2:
+        print('3388')
+        a = 2
+
+    elif number == 3389 and number >= range1 and number <= range2:
+        print('3389')
+        a = 2
+
+    elif number == 3390 and number >= range1 and number <= range2:
+        print('3390')
+        a = 2
+
+    elif number == 3391 and number >= range1 and number <= range2:
+        print('3391')
+        a = 2
+
+    elif number == 3392 and number >= range1 and number <= range2:
+        print('3392')
+        a = 2
+
+    elif number == 3393 and number >= range1 and number <= range2:
+        print('3393')
+        a = 2
+
+    elif number == 3394 and number >= range1 and number <= range2:
+        print('3394')
+        a = 2
+
+    elif number == 3395 and number >= range1 and number <= range2:
+        print('3395')
+        a = 2
+
+    elif number == 3396 and number >= range1 and number <= range2:
+        print('3396')
+        a = 2
+
+    elif number == 3397 and number >= range1 and number <= range2:
+        print('3397')
+        a = 2
+
+    elif number == 3398 and number >= range1 and number <= range2:
+        print('3398')
+        a = 2
+
+    elif number == 3399 and number >= range1 and number <= range2:
+        print('3399')
+        a = 2
+
+    elif number == 3400 and number >= range1 and number <= range2:
+        print('3400')
+        a = 2
+
+    elif number == 3401 and number >= range1 and number <= range2:
+        print('3401')
+        a = 2
+
+    elif number == 3402 and number >= range1 and number <= range2:
+        print('3402')
+        a = 2
+
+    elif number == 3403 and number >= range1 and number <= range2:
+        print('3403')
+        a = 2
+
+    elif number == 3404 and number >= range1 and number <= range2:
+        print('3404')
+        a = 2
+
+    elif number == 3405 and number >= range1 and number <= range2:
+        print('3405')
+        a = 2
+
+    elif number == 3406 and number >= range1 and number <= range2:
+        print('3406')
+        a = 2
+
+    elif number == 3407 and number >= range1 and number <= range2:
+        print('3407')
+        a = 2
+
+    elif number == 3408 and number >= range1 and number <= range2:
+        print('3408')
+        a = 2
+
+    elif number == 3409 and number >= range1 and number <= range2:
+        print('3409')
+        a = 2
+
+    elif number == 3410 and number >= range1 and number <= range2:
+        print('3410')
+        a = 2
+
+    elif number == 3411 and number >= range1 and number <= range2:
+        print('3411')
+        a = 2
+
+    elif number == 3412 and number >= range1 and number <= range2:
+        print('3412')
+        a = 2
+
+    elif number == 3413 and number >= range1 and number <= range2:
+        print('3413')
+        a = 2
+
+    elif number == 3414 and number >= range1 and number <= range2:
+        print('3414')
+        a = 2
+
+    elif number == 3415 and number >= range1 and number <= range2:
+        print('3415')
+        a = 2
+
+    elif number == 3416 and number >= range1 and number <= range2:
+        print('3416')
+        a = 2
+
+    elif number == 3417 and number >= range1 and number <= range2:
+        print('3417')
+        a = 2
+
+    elif number == 3418 and number >= range1 and number <= range2:
+        print('3418')
+        a = 2
+
+    elif number == 3419 and number >= range1 and number <= range2:
+        print('3419')
+        a = 2
+
+    elif number == 3420 and number >= range1 and number <= range2:
+        print('3420')
+        a = 2
+
+    elif number == 3421 and number >= range1 and number <= range2:
+        print('3421')
+        a = 2
+
+    elif number == 3422 and number >= range1 and number <= range2:
+        print('3422')
+        a = 2
+
+    elif number == 3423 and number >= range1 and number <= range2:
+        print('3423')
+        a = 2
+
+    elif number == 3424 and number >= range1 and number <= range2:
+        print('3424')
+        a = 2
+
+    elif number == 3425 and number >= range1 and number <= range2:
+        print('3425')
+        a = 2
+
+    elif number == 3426 and number >= range1 and number <= range2:
+        print('3426')
+        a = 2
+
+    elif number == 3427 and number >= range1 and number <= range2:
+        print('3427')
+        a = 2
+
+    elif number == 3428 and number >= range1 and number <= range2:
+        print('3428')
+        a = 2
+
+    elif number == 3429 and number >= range1 and number <= range2:
+        print('3429')
+        a = 2
+
+    elif number == 3430 and number >= range1 and number <= range2:
+        print('3430')
+        a = 2
+
+    elif number == 3431 and number >= range1 and number <= range2:
+        print('3431')
+        a = 2
+
+    elif number == 3432 and number >= range1 and number <= range2:
+        print('3432')
+        a = 2
+
+    elif number == 3433 and number >= range1 and number <= range2:
+        print('3433')
+        a = 2
+
+    elif number == 3434 and number >= range1 and number <= range2:
+        print('3434')
+        a = 2
+
+    elif number == 3435 and number >= range1 and number <= range2:
+        print('3435')
+        a = 2
+
+    elif number == 3436 and number >= range1 and number <= range2:
+        print('3436')
+        a = 2
+
+    elif number == 3437 and number >= range1 and number <= range2:
+        print('3437')
+        a = 2
+
+    elif number == 3438 and number >= range1 and number <= range2:
+        print('3438')
+        a = 2
+
+    elif number == 3439 and number >= range1 and number <= range2:
+        print('3439')
+        a = 2
+
+    elif number == 3440 and number >= range1 and number <= range2:
+        print('3440')
+        a = 2
+
+    elif number == 3441 and number >= range1 and number <= range2:
+        print('3441')
+        a = 2
+
+    elif number == 3442 and number >= range1 and number <= range2:
+        print('3442')
+        a = 2
+
+    elif number == 3443 and number >= range1 and number <= range2:
+        print('3443')
+        a = 2
+
+    elif number == 3444 and number >= range1 and number <= range2:
+        print('3444')
+        a = 2
+
+    elif number == 3445 and number >= range1 and number <= range2:
+        print('3445')
+        a = 2
+
+    elif number == 3446 and number >= range1 and number <= range2:
+        print('3446')
+        a = 2
+
+    elif number == 3447 and number >= range1 and number <= range2:
+        print('3447')
+        a = 2
+
+    elif number == 3448 and number >= range1 and number <= range2:
+        print('3448')
+        a = 2
+
+    elif number == 3449 and number >= range1 and number <= range2:
+        print('3449')
+        a = 2
+
+    elif number == 3450 and number >= range1 and number <= range2:
+        print('3450')
+        a = 2
+
+    elif number == 3451 and number >= range1 and number <= range2:
+        print('3451')
+        a = 2
+
+    elif number == 3452 and number >= range1 and number <= range2:
+        print('3452')
+        a = 2
+
+    elif number == 3453 and number >= range1 and number <= range2:
+        print('3453')
+        a = 2
+
+    elif number == 3454 and number >= range1 and number <= range2:
+        print('3454')
+        a = 2
+
+    elif number == 3455 and number >= range1 and number <= range2:
+        print('3455')
+        a = 2
+
+    elif number == 3456 and number >= range1 and number <= range2:
+        print('3456')
+        a = 2
+
+    elif number == 3457 and number >= range1 and number <= range2:
+        print('3457')
+        a = 2
+
+    elif number == 3458 and number >= range1 and number <= range2:
+        print('3458')
+        a = 2
+
+    elif number == 3459 and number >= range1 and number <= range2:
+        print('3459')
+        a = 2
+
+    elif number == 3460 and number >= range1 and number <= range2:
+        print('3460')
+        a = 2
+
+    elif number == 3461 and number >= range1 and number <= range2:
+        print('3461')
+        a = 2
+
+    elif number == 3462 and number >= range1 and number <= range2:
+        print('3462')
+        a = 2
+
+    elif number == 3463 and number >= range1 and number <= range2:
+        print('3463')
+        a = 2
+
+    elif number == 3464 and number >= range1 and number <= range2:
+        print('3464')
+        a = 2
+
+    elif number == 3465 and number >= range1 and number <= range2:
+        print('3465')
+        a = 2
+
+    elif number == 3466 and number >= range1 and number <= range2:
+        print('3466')
+        a = 2
+
+    elif number == 3467 and number >= range1 and number <= range2:
+        print('3467')
+        a = 2
+
+    elif number == 3468 and number >= range1 and number <= range2:
+        print('3468')
+        a = 2
+
+    elif number == 3469 and number >= range1 and number <= range2:
+        print('3469')
+        a = 2
+
+    elif number == 3470 and number >= range1 and number <= range2:
+        print('3470')
+        a = 2
+
+    elif number == 3471 and number >= range1 and number <= range2:
+        print('3471')
+        a = 2
+
+    elif number == 3472 and number >= range1 and number <= range2:
+        print('3472')
+        a = 2
+
+    elif number == 3473 and number >= range1 and number <= range2:
+        print('3473')
+        a = 2
+
+    elif number == 3474 and number >= range1 and number <= range2:
+        print('3474')
+        a = 2
+
+    elif number == 3475 and number >= range1 and number <= range2:
+        print('3475')
+        a = 2
+
+    elif number == 3476 and number >= range1 and number <= range2:
+        print('3476')
+        a = 2
+
+    elif number == 3477 and number >= range1 and number <= range2:
+        print('3477')
+        a = 2
+
+    elif number == 3478 and number >= range1 and number <= range2:
+        print('3478')
+        a = 2
+
+    elif number == 3479 and number >= range1 and number <= range2:
+        print('3479')
+        a = 2
+
+    elif number == 3480 and number >= range1 and number <= range2:
+        print('3480')
+        a = 2
+
+    elif number == 3481 and number >= range1 and number <= range2:
+        print('3481')
+        a = 2
+
+    elif number == 3482 and number >= range1 and number <= range2:
+        print('3482')
+        a = 2
+
+    elif number == 3483 and number >= range1 and number <= range2:
+        print('3483')
+        a = 2
+
+    elif number == 3484 and number >= range1 and number <= range2:
+        print('3484')
+        a = 2
+
+    elif number == 3485 and number >= range1 and number <= range2:
+        print('3485')
+        a = 2
+
+    elif number == 3486 and number >= range1 and number <= range2:
+        print('3486')
+        a = 2
+
+    elif number == 3487 and number >= range1 and number <= range2:
+        print('3487')
+        a = 2
+
+    elif number == 3488 and number >= range1 and number <= range2:
+        print('3488')
+        a = 2
+
+    elif number == 3489 and number >= range1 and number <= range2:
+        print('3489')
+        a = 2
+
+    elif number == 3490 and number >= range1 and number <= range2:
+        print('3490')
+        a = 2
+
+    elif number == 3491 and number >= range1 and number <= range2:
+        print('3491')
+        a = 2
+
+    elif number == 3492 and number >= range1 and number <= range2:
+        print('3492')
+        a = 2
+
+    elif number == 3493 and number >= range1 and number <= range2:
+        print('3493')
+        a = 2
+
+    elif number == 3494 and number >= range1 and number <= range2:
+        print('3494')
+        a = 2
+
+    elif number == 3495 and number >= range1 and number <= range2:
+        print('3495')
+        a = 2
+
+    elif number == 3496 and number >= range1 and number <= range2:
+        print('3496')
+        a = 2
+
+    elif number == 3497 and number >= range1 and number <= range2:
+        print('3497')
+        a = 2
+
+    elif number == 3498 and number >= range1 and number <= range2:
+        print('3498')
+        a = 2
+
+    elif number == 3499 and number >= range1 and number <= range2:
+        print('3499')
+        a = 2
+
+    elif number == 3500 and number >= range1 and number <= range2:
+        print('3500')
+        a = 2
+
+    elif number == 3501 and number >= range1 and number <= range2:
+        print('3501')
+        a = 2
+
+    elif number == 3502 and number >= range1 and number <= range2:
+        print('3502')
+        a = 2
+
+    elif number == 3503 and number >= range1 and number <= range2:
+        print('3503')
+        a = 2
+
+    elif number == 3504 and number >= range1 and number <= range2:
+        print('3504')
+        a = 2
+
+    elif number == 3505 and number >= range1 and number <= range2:
+        print('3505')
+        a = 2
+
+    elif number == 3506 and number >= range1 and number <= range2:
+        print('3506')
+        a = 2
+
+    elif number == 3507 and number >= range1 and number <= range2:
+        print('3507')
+        a = 2
+
+    elif number == 3508 and number >= range1 and number <= range2:
+        print('3508')
+        a = 2
+
+    elif number == 3509 and number >= range1 and number <= range2:
+        print('3509')
+        a = 2
+
+    elif number == 3510 and number >= range1 and number <= range2:
+        print('3510')
+        a = 2
+
+    elif number == 3511 and number >= range1 and number <= range2:
+        print('3511')
+        a = 2
+
+    elif number == 3512 and number >= range1 and number <= range2:
+        print('3512')
+        a = 2
+
+    elif number == 3513 and number >= range1 and number <= range2:
+        print('3513')
+        a = 2
+
+    elif number == 3514 and number >= range1 and number <= range2:
+        print('3514')
+        a = 2
+
+    elif number == 3515 and number >= range1 and number <= range2:
+        print('3515')
+        a = 2
+
+    elif number == 3516 and number >= range1 and number <= range2:
+        print('3516')
+        a = 2
+
+    elif number == 3517 and number >= range1 and number <= range2:
+        print('3517')
+        a = 2
+
+    elif number == 3518 and number >= range1 and number <= range2:
+        print('3518')
+        a = 2
+
+    elif number == 3519 and number >= range1 and number <= range2:
+        print('3519')
+        a = 2
+
+    elif number == 3520 and number >= range1 and number <= range2:
+        print('3520')
+        a = 2
+
+    elif number == 3521 and number >= range1 and number <= range2:
+        print('3521')
+        a = 2
+
+    elif number == 3522 and number >= range1 and number <= range2:
+        print('3522')
+        a = 2
+
+    elif number == 3523 and number >= range1 and number <= range2:
+        print('3523')
+        a = 2
+
+    elif number == 3524 and number >= range1 and number <= range2:
+        print('3524')
+        a = 2
+
+    elif number == 3525 and number >= range1 and number <= range2:
+        print('3525')
+        a = 2
+
+    elif number == 3526 and number >= range1 and number <= range2:
+        print('3526')
+        a = 2
+
+    elif number == 3527 and number >= range1 and number <= range2:
+        print('3527')
+        a = 2
+
+    elif number == 3528 and number >= range1 and number <= range2:
+        print('3528')
+        a = 2
+
+    elif number == 3529 and number >= range1 and number <= range2:
+        print('3529')
+        a = 2
+
+    elif number == 3530 and number >= range1 and number <= range2:
+        print('3530')
+        a = 2
+
+    elif number == 3531 and number >= range1 and number <= range2:
+        print('3531')
+        a = 2
+
+    elif number == 3532 and number >= range1 and number <= range2:
+        print('3532')
+        a = 2
+
+    elif number == 3533 and number >= range1 and number <= range2:
+        print('3533')
+        a = 2
+
+    elif number == 3534 and number >= range1 and number <= range2:
+        print('3534')
+        a = 2
+
+    elif number == 3535 and number >= range1 and number <= range2:
+        print('3535')
+        a = 2
+
+    elif number == 3536 and number >= range1 and number <= range2:
+        print('3536')
+        a = 2
+
+    elif number == 3537 and number >= range1 and number <= range2:
+        print('3537')
+        a = 2
+
+    elif number == 3538 and number >= range1 and number <= range2:
+        print('3538')
+        a = 2
+
+    elif number == 3539 and number >= range1 and number <= range2:
+        print('3539')
+        a = 2
+
+    elif number == 3540 and number >= range1 and number <= range2:
+        print('3540')
+        a = 2
+
+    elif number == 3541 and number >= range1 and number <= range2:
+        print('3541')
+        a = 2
+
+    elif number == 3542 and number >= range1 and number <= range2:
+        print('3542')
+        a = 2
+
+    elif number == 3543 and number >= range1 and number <= range2:
+        print('3543')
+        a = 2
+
+    elif number == 3544 and number >= range1 and number <= range2:
+        print('3544')
+        a = 2
+
+    elif number == 3545 and number >= range1 and number <= range2:
+        print('3545')
+        a = 2
+
+    elif number == 3546 and number >= range1 and number <= range2:
+        print('3546')
+        a = 2
+
+    elif number == 3547 and number >= range1 and number <= range2:
+        print('3547')
+        a = 2
+
+    elif number == 3548 and number >= range1 and number <= range2:
+        print('3548')
+        a = 2
+
+    elif number == 3549 and number >= range1 and number <= range2:
+        print('3549')
+        a = 2
+
+    elif number == 3550 and number >= range1 and number <= range2:
+        print('3550')
+        a = 2
+
+    elif number == 3551 and number >= range1 and number <= range2:
+        print('3551')
+        a = 2
+
+    elif number == 3552 and number >= range1 and number <= range2:
+        print('3552')
+        a = 2
+
+    elif number == 3553 and number >= range1 and number <= range2:
+        print('3553')
+        a = 2
+
+    elif number == 3554 and number >= range1 and number <= range2:
+        print('3554')
+        a = 2
+
+    elif number == 3555 and number >= range1 and number <= range2:
+        print('3555')
+        a = 2
+
+    elif number == 3556 and number >= range1 and number <= range2:
+        print('3556')
+        a = 2
+
+    elif number == 3557 and number >= range1 and number <= range2:
+        print('3557')
+        a = 2
+
+    elif number == 3558 and number >= range1 and number <= range2:
+        print('3558')
+        a = 2
+
+    elif number == 3559 and number >= range1 and number <= range2:
+        print('3559')
+        a = 2
+
+    elif number == 3560 and number >= range1 and number <= range2:
+        print('3560')
+        a = 2
+
+    elif number == 3561 and number >= range1 and number <= range2:
+        print('3561')
+        a = 2
+
+    elif number == 3562 and number >= range1 and number <= range2:
+        print('3562')
+        a = 2
+
+    elif number == 3563 and number >= range1 and number <= range2:
+        print('3563')
+        a = 2
+
+    elif number == 3564 and number >= range1 and number <= range2:
+        print('3564')
+        a = 2
+
+    elif number == 3565 and number >= range1 and number <= range2:
+        print('3565')
+        a = 2
+
+    elif number == 3566 and number >= range1 and number <= range2:
+        print('3566')
+        a = 2
+
+    elif number == 3567 and number >= range1 and number <= range2:
+        print('3567')
+        a = 2
+
+    elif number == 3568 and number >= range1 and number <= range2:
+        print('3568')
+        a = 2
+
+    elif number == 3569 and number >= range1 and number <= range2:
+        print('3569')
+        a = 2
+
+    elif number == 3570 and number >= range1 and number <= range2:
+        print('3570')
+        a = 2
+
+    elif number == 3571 and number >= range1 and number <= range2:
+        print('3571')
+        a = 2
+
+    elif number == 3572 and number >= range1 and number <= range2:
+        print('3572')
+        a = 2
+
+    elif number == 3573 and number >= range1 and number <= range2:
+        print('3573')
+        a = 2
+
+    elif number == 3574 and number >= range1 and number <= range2:
+        print('3574')
+        a = 2
+
+    elif number == 3575 and number >= range1 and number <= range2:
+        print('3575')
+        a = 2
+
+    elif number == 3576 and number >= range1 and number <= range2:
+        print('3576')
+        a = 2
+
+    elif number == 3577 and number >= range1 and number <= range2:
+        print('3577')
+        a = 2
+
+    elif number == 3578 and number >= range1 and number <= range2:
+        print('3578')
+        a = 2
+
+    elif number == 3579 and number >= range1 and number <= range2:
+        print('3579')
+        a = 2
+
+    elif number == 3580 and number >= range1 and number <= range2:
+        print('3580')
+        a = 2
+
+    elif number == 3581 and number >= range1 and number <= range2:
+        print('3581')
+        a = 2
+
+    elif number == 3582 and number >= range1 and number <= range2:
+        print('3582')
+        a = 2
+
+    elif number == 3583 and number >= range1 and number <= range2:
+        print('3583')
+        a = 2
+
+    elif number == 3584 and number >= range1 and number <= range2:
+        print('3584')
+        a = 2
+
+    elif number == 3585 and number >= range1 and number <= range2:
+        print('3585')
+        a = 2
+
+    elif number == 3586 and number >= range1 and number <= range2:
+        print('3586')
+        a = 2
+
+    elif number == 3587 and number >= range1 and number <= range2:
+        print('3587')
+        a = 2
+
+    elif number == 3588 and number >= range1 and number <= range2:
+        print('3588')
+        a = 2
+
+    elif number == 3589 and number >= range1 and number <= range2:
+        print('3589')
+        a = 2
+
+    elif number == 3590 and number >= range1 and number <= range2:
+        print('3590')
+        a = 2
+
+    elif number == 3591 and number >= range1 and number <= range2:
+        print('3591')
+        a = 2
+
+    elif number == 3592 and number >= range1 and number <= range2:
+        print('3592')
+        a = 2
+
+    elif number == 3593 and number >= range1 and number <= range2:
+        print('3593')
+        a = 2
+
+    elif number == 3594 and number >= range1 and number <= range2:
+        print('3594')
+        a = 2
+
+    elif number == 3595 and number >= range1 and number <= range2:
+        print('3595')
+        a = 2
+
+    elif number == 3596 and number >= range1 and number <= range2:
+        print('3596')
+        a = 2
+
+    elif number == 3597 and number >= range1 and number <= range2:
+        print('3597')
+        a = 2
+
+    elif number == 3598 and number >= range1 and number <= range2:
+        print('3598')
+        a = 2
+
+    elif number == 3599 and number >= range1 and number <= range2:
+        print('3599')
+        a = 2
+
+    elif number == 3600 and number >= range1 and number <= range2:
+        print('3600')
+        a = 2
+
+    elif number == 3601 and number >= range1 and number <= range2:
+        print('3601')
+        a = 2
+
+    elif number == 3602 and number >= range1 and number <= range2:
+        print('3602')
+        a = 2
+
+    elif number == 3603 and number >= range1 and number <= range2:
+        print('3603')
+        a = 2
+
+    elif number == 3604 and number >= range1 and number <= range2:
+        print('3604')
+        a = 2
+
+    elif number == 3605 and number >= range1 and number <= range2:
+        print('3605')
+        a = 2
+
+    elif number == 3606 and number >= range1 and number <= range2:
+        print('3606')
+        a = 2
+
+    elif number == 3607 and number >= range1 and number <= range2:
+        print('3607')
+        a = 2
+
+    elif number == 3608 and number >= range1 and number <= range2:
+        print('3608')
+        a = 2
+
+    elif number == 3609 and number >= range1 and number <= range2:
+        print('3609')
+        a = 2
+
+    elif number == 3610 and number >= range1 and number <= range2:
+        print('3610')
+        a = 2
+
+    elif number == 3611 and number >= range1 and number <= range2:
+        print('3611')
+        a = 2
+
+    elif number == 3612 and number >= range1 and number <= range2:
+        print('3612')
+        a = 2
+
+    elif number == 3613 and number >= range1 and number <= range2:
+        print('3613')
+        a = 2
+
+    elif number == 3614 and number >= range1 and number <= range2:
+        print('3614')
+        a = 2
+
+    elif number == 3615 and number >= range1 and number <= range2:
+        print('3615')
+        a = 2
+
+    elif number == 3616 and number >= range1 and number <= range2:
+        print('3616')
+        a = 2
+
+    elif number == 3617 and number >= range1 and number <= range2:
+        print('3617')
+        a = 2
+
+    elif number == 3618 and number >= range1 and number <= range2:
+        print('3618')
+        a = 2
+
+    elif number == 3619 and number >= range1 and number <= range2:
+        print('3619')
+        a = 2
+
+    elif number == 3620 and number >= range1 and number <= range2:
+        print('3620')
+        a = 2
+
+    elif number == 3621 and number >= range1 and number <= range2:
+        print('3621')
+        a = 2
+
+    elif number == 3622 and number >= range1 and number <= range2:
+        print('3622')
+        a = 2
+
+    elif number == 3623 and number >= range1 and number <= range2:
+        print('3623')
+        a = 2
+
+    elif number == 3624 and number >= range1 and number <= range2:
+        print('3624')
+        a = 2
+
+    elif number == 3625 and number >= range1 and number <= range2:
+        print('3625')
+        a = 2
+
+    elif number == 3626 and number >= range1 and number <= range2:
+        print('3626')
+        a = 2
+
+    elif number == 3627 and number >= range1 and number <= range2:
+        print('3627')
+        a = 2
+
+    elif number == 3628 and number >= range1 and number <= range2:
+        print('3628')
+        a = 2
+
+    elif number == 3629 and number >= range1 and number <= range2:
+        print('3629')
+        a = 2
+
+    elif number == 3630 and number >= range1 and number <= range2:
+        print('3630')
+        a = 2
+
+    elif number == 3631 and number >= range1 and number <= range2:
+        print('3631')
+        a = 2
+
+    elif number == 3632 and number >= range1 and number <= range2:
+        print('3632')
+        a = 2
+
+    elif number == 3633 and number >= range1 and number <= range2:
+        print('3633')
+        a = 2
+
+    elif number == 3634 and number >= range1 and number <= range2:
+        print('3634')
+        a = 2
+
+    elif number == 3635 and number >= range1 and number <= range2:
+        print('3635')
+        a = 2
+
+    elif number == 3636 and number >= range1 and number <= range2:
+        print('3636')
+        a = 2
+
+    elif number == 3637 and number >= range1 and number <= range2:
+        print('3637')
+        a = 2
+
+    elif number == 3638 and number >= range1 and number <= range2:
+        print('3638')
+        a = 2
+
+    elif number == 3639 and number >= range1 and number <= range2:
+        print('3639')
+        a = 2
+
+    elif number == 3640 and number >= range1 and number <= range2:
+        print('3640')
+        a = 2
+
+    elif number == 3641 and number >= range1 and number <= range2:
+        print('3641')
+        a = 2
+
+    elif number == 3642 and number >= range1 and number <= range2:
+        print('3642')
+        a = 2
+
+    elif number == 3643 and number >= range1 and number <= range2:
+        print('3643')
+        a = 2
+
+    elif number == 3644 and number >= range1 and number <= range2:
+        print('3644')
+        a = 2
+
+    elif number == 3645 and number >= range1 and number <= range2:
+        print('3645')
+        a = 2
+
+    elif number == 3646 and number >= range1 and number <= range2:
+        print('3646')
+        a = 2
+
+    elif number == 3647 and number >= range1 and number <= range2:
+        print('3647')
+        a = 2
+
+    elif number == 3648 and number >= range1 and number <= range2:
+        print('3648')
+        a = 2
+
+    elif number == 3649 and number >= range1 and number <= range2:
+        print('3649')
+        a = 2
+
+    elif number == 3650 and number >= range1 and number <= range2:
+        print('3650')
+        a = 2
+
+    elif number == 3651 and number >= range1 and number <= range2:
+        print('3651')
+        a = 2
+
+    elif number == 3652 and number >= range1 and number <= range2:
+        print('3652')
+        a = 2
+
+    elif number == 3653 and number >= range1 and number <= range2:
+        print('3653')
+        a = 2
+
+    elif number == 3654 and number >= range1 and number <= range2:
+        print('3654')
+        a = 2
+
+    elif number == 3655 and number >= range1 and number <= range2:
+        print('3655')
+        a = 2
+
+    elif number == 3656 and number >= range1 and number <= range2:
+        print('3656')
+        a = 2
+
+    elif number == 3657 and number >= range1 and number <= range2:
+        print('3657')
+        a = 2
+
+    elif number == 3658 and number >= range1 and number <= range2:
+        print('3658')
+        a = 2
+
+    elif number == 3659 and number >= range1 and number <= range2:
+        print('3659')
+        a = 2
+
+    elif number == 3660 and number >= range1 and number <= range2:
+        print('3660')
+        a = 2
+
+    elif number == 3661 and number >= range1 and number <= range2:
+        print('3661')
+        a = 2
+
+    elif number == 3662 and number >= range1 and number <= range2:
+        print('3662')
+        a = 2
+
+    elif number == 3663 and number >= range1 and number <= range2:
+        print('3663')
+        a = 2
+
+    elif number == 3664 and number >= range1 and number <= range2:
+        print('3664')
+        a = 2
+
+    elif number == 3665 and number >= range1 and number <= range2:
+        print('3665')
+        a = 2
+
+    elif number == 3666 and number >= range1 and number <= range2:
+        print('3666')
+        a = 2
+
+    elif number == 3667 and number >= range1 and number <= range2:
+        print('3667')
+        a = 2
+
+    elif number == 3668 and number >= range1 and number <= range2:
+        print('3668')
+        a = 2
+
+    elif number == 3669 and number >= range1 and number <= range2:
+        print('3669')
+        a = 2
+
+    elif number == 3670 and number >= range1 and number <= range2:
+        print('3670')
+        a = 2
+
+    elif number == 3671 and number >= range1 and number <= range2:
+        print('3671')
+        a = 2
+
+    elif number == 3672 and number >= range1 and number <= range2:
+        print('3672')
+        a = 2
+
+    elif number == 3673 and number >= range1 and number <= range2:
+        print('3673')
+        a = 2
+
+    elif number == 3674 and number >= range1 and number <= range2:
+        print('3674')
+        a = 2
+
+    elif number == 3675 and number >= range1 and number <= range2:
+        print('3675')
+        a = 2
+
+    elif number == 3676 and number >= range1 and number <= range2:
+        print('3676')
+        a = 2
+
+    elif number == 3677 and number >= range1 and number <= range2:
+        print('3677')
+        a = 2
+
+    elif number == 3678 and number >= range1 and number <= range2:
+        print('3678')
+        a = 2
+
+    elif number == 3679 and number >= range1 and number <= range2:
+        print('3679')
+        a = 2
+
+    elif number == 3680 and number >= range1 and number <= range2:
+        print('3680')
+        a = 2
+
+    elif number == 3681 and number >= range1 and number <= range2:
+        print('3681')
+        a = 2
+
+    elif number == 3682 and number >= range1 and number <= range2:
+        print('3682')
+        a = 2
+
+    elif number == 3683 and number >= range1 and number <= range2:
+        print('3683')
+        a = 2
+
+    elif number == 3684 and number >= range1 and number <= range2:
+        print('3684')
+        a = 2
+
+    elif number == 3685 and number >= range1 and number <= range2:
+        print('3685')
+        a = 2
+
+    elif number == 3686 and number >= range1 and number <= range2:
+        print('3686')
+        a = 2
+
+    elif number == 3687 and number >= range1 and number <= range2:
+        print('3687')
+        a = 2
+
+    elif number == 3688 and number >= range1 and number <= range2:
+        print('3688')
+        a = 2
+
+    elif number == 3689 and number >= range1 and number <= range2:
+        print('3689')
+        a = 2
+
+    elif number == 3690 and number >= range1 and number <= range2:
+        print('3690')
+        a = 2
+
+    elif number == 3691 and number >= range1 and number <= range2:
+        print('3691')
+        a = 2
+
+    elif number == 3692 and number >= range1 and number <= range2:
+        print('3692')
+        a = 2
+
+    elif number == 3693 and number >= range1 and number <= range2:
+        print('3693')
+        a = 2
+
+    elif number == 3694 and number >= range1 and number <= range2:
+        print('3694')
+        a = 2
+
+    elif number == 3695 and number >= range1 and number <= range2:
+        print('3695')
+        a = 2
+
+    elif number == 3696 and number >= range1 and number <= range2:
+        print('3696')
+        a = 2
+
+    elif number == 3697 and number >= range1 and number <= range2:
+        print('3697')
+        a = 2
+
+    elif number == 3698 and number >= range1 and number <= range2:
+        print('3698')
+        a = 2
+
+    elif number == 3699 and number >= range1 and number <= range2:
+        print('3699')
+        a = 2
+
+    elif number == 3700 and number >= range1 and number <= range2:
+        print('3700')
+        a = 2
+
+    elif number == 3701 and number >= range1 and number <= range2:
+        print('3701')
+        a = 2
+
+    elif number == 3702 and number >= range1 and number <= range2:
+        print('3702')
+        a = 2
+
+    elif number == 3703 and number >= range1 and number <= range2:
+        print('3703')
+        a = 2
+
+    elif number == 3704 and number >= range1 and number <= range2:
+        print('3704')
+        a = 2
+
+    elif number == 3705 and number >= range1 and number <= range2:
+        print('3705')
+        a = 2
+
+    elif number == 3706 and number >= range1 and number <= range2:
+        print('3706')
+        a = 2
+
+    elif number == 3707 and number >= range1 and number <= range2:
+        print('3707')
+        a = 2
+
+    elif number == 3708 and number >= range1 and number <= range2:
+        print('3708')
+        a = 2
+
+    elif number == 3709 and number >= range1 and number <= range2:
+        print('3709')
+        a = 2
+
+    elif number == 3710 and number >= range1 and number <= range2:
+        print('3710')
+        a = 2
+
+    elif number == 3711 and number >= range1 and number <= range2:
+        print('3711')
+        a = 2
+
+    elif number == 3712 and number >= range1 and number <= range2:
+        print('3712')
+        a = 2
+
+    elif number == 3713 and number >= range1 and number <= range2:
+        print('3713')
+        a = 2
+
+    elif number == 3714 and number >= range1 and number <= range2:
+        print('3714')
+        a = 2
+
+    elif number == 3715 and number >= range1 and number <= range2:
+        print('3715')
+        a = 2
+
+    elif number == 3716 and number >= range1 and number <= range2:
+        print('3716')
+        a = 2
+
+    elif number == 3717 and number >= range1 and number <= range2:
+        print('3717')
+        a = 2
+
+    elif number == 3718 and number >= range1 and number <= range2:
+        print('3718')
+        a = 2
+
+    elif number == 3719 and number >= range1 and number <= range2:
+        print('3719')
+        a = 2
+
+    elif number == 3720 and number >= range1 and number <= range2:
+        print('3720')
+        a = 2
+
+    elif number == 3721 and number >= range1 and number <= range2:
+        print('3721')
+        a = 2
+
+    elif number == 3722 and number >= range1 and number <= range2:
+        print('3722')
+        a = 2
+
+    elif number == 3723 and number >= range1 and number <= range2:
+        print('3723')
+        a = 2
+
+    elif number == 3724 and number >= range1 and number <= range2:
+        print('3724')
+        a = 2
+
+    elif number == 3725 and number >= range1 and number <= range2:
+        print('3725')
+        a = 2
+
+    elif number == 3726 and number >= range1 and number <= range2:
+        print('3726')
+        a = 2
+
+    elif number == 3727 and number >= range1 and number <= range2:
+        print('3727')
+        a = 2
+
+    elif number == 3728 and number >= range1 and number <= range2:
+        print('3728')
+        a = 2
+
+    elif number == 3729 and number >= range1 and number <= range2:
+        print('3729')
+        a = 2
+
+    elif number == 3730 and number >= range1 and number <= range2:
+        print('3730')
+        a = 2
+
+    elif number == 3731 and number >= range1 and number <= range2:
+        print('3731')
+        a = 2
+
+    elif number == 3732 and number >= range1 and number <= range2:
+        print('3732')
+        a = 2
+
+    elif number == 3733 and number >= range1 and number <= range2:
+        print('3733')
+        a = 2
+
+    elif number == 3734 and number >= range1 and number <= range2:
+        print('3734')
+        a = 2
+
+    elif number == 3735 and number >= range1 and number <= range2:
+        print('3735')
+        a = 2
+
+    elif number == 3736 and number >= range1 and number <= range2:
+        print('3736')
+        a = 2
+
+    elif number == 3737 and number >= range1 and number <= range2:
+        print('3737')
+        a = 2
+
+    elif number == 3738 and number >= range1 and number <= range2:
+        print('3738')
+        a = 2
+
+    elif number == 3739 and number >= range1 and number <= range2:
+        print('3739')
+        a = 2
+
+    elif number == 3740 and number >= range1 and number <= range2:
+        print('3740')
+        a = 2
+
+    elif number == 3741 and number >= range1 and number <= range2:
+        print('3741')
+        a = 2
+
+    elif number == 3742 and number >= range1 and number <= range2:
+        print('3742')
+        a = 2
+
+    elif number == 3743 and number >= range1 and number <= range2:
+        print('3743')
+        a = 2
+
+    elif number == 3744 and number >= range1 and number <= range2:
+        print('3744')
+        a = 2
+
+    elif number == 3745 and number >= range1 and number <= range2:
+        print('3745')
+        a = 2
+
+    elif number == 3746 and number >= range1 and number <= range2:
+        print('3746')
+        a = 2
+
+    elif number == 3747 and number >= range1 and number <= range2:
+        print('3747')
+        a = 2
+
+    elif number == 3748 and number >= range1 and number <= range2:
+        print('3748')
+        a = 2
+
+    elif number == 3749 and number >= range1 and number <= range2:
+        print('3749')
+        a = 2
+
+    elif number == 3750 and number >= range1 and number <= range2:
+        print('3750')
+        a = 2
+
+    elif number == 3751 and number >= range1 and number <= range2:
+        print('3751')
+        a = 2
+
+    elif number == 3752 and number >= range1 and number <= range2:
+        print('3752')
+        a = 2
+
+    elif number == 3753 and number >= range1 and number <= range2:
+        print('3753')
+        a = 2
+
+    elif number == 3754 and number >= range1 and number <= range2:
+        print('3754')
+        a = 2
+
+    elif number == 3755 and number >= range1 and number <= range2:
+        print('3755')
+        a = 2
+
+    elif number == 3756 and number >= range1 and number <= range2:
+        print('3756')
+        a = 2
+
+    elif number == 3757 and number >= range1 and number <= range2:
+        print('3757')
+        a = 2
+
+    elif number == 3758 and number >= range1 and number <= range2:
+        print('3758')
+        a = 2
+
+    elif number == 3759 and number >= range1 and number <= range2:
+        print('3759')
+        a = 2
+
+    elif number == 3760 and number >= range1 and number <= range2:
+        print('3760')
+        a = 2
+
+    elif number == 3761 and number >= range1 and number <= range2:
+        print('3761')
+        a = 2
+
+    elif number == 3762 and number >= range1 and number <= range2:
+        print('3762')
+        a = 2
+
+    elif number == 3763 and number >= range1 and number <= range2:
+        print('3763')
+        a = 2
+
+    elif number == 3764 and number >= range1 and number <= range2:
+        print('3764')
+        a = 2
+
+    elif number == 3765 and number >= range1 and number <= range2:
+        print('3765')
+        a = 2
+
+    elif number == 3766 and number >= range1 and number <= range2:
+        print('3766')
+        a = 2
+
+    elif number == 3767 and number >= range1 and number <= range2:
+        print('3767')
+        a = 2
+
+    elif number == 3768 and number >= range1 and number <= range2:
+        print('3768')
+        a = 2
+
+    elif number == 3769 and number >= range1 and number <= range2:
+        print('3769')
+        a = 2
+
+    elif number == 3770 and number >= range1 and number <= range2:
+        print('3770')
+        a = 2
+
+    elif number == 3771 and number >= range1 and number <= range2:
+        print('3771')
+        a = 2
+
+    elif number == 3772 and number >= range1 and number <= range2:
+        print('3772')
+        a = 2
+
+    elif number == 3773 and number >= range1 and number <= range2:
+        print('3773')
+        a = 2
+
+    elif number == 3774 and number >= range1 and number <= range2:
+        print('3774')
+        a = 2
+
+    elif number == 3775 and number >= range1 and number <= range2:
+        print('3775')
+        a = 2
+
+    elif number == 3776 and number >= range1 and number <= range2:
+        print('3776')
+        a = 2
+
+    elif number == 3777 and number >= range1 and number <= range2:
+        print('3777')
+        a = 2
+
+    elif number == 3778 and number >= range1 and number <= range2:
+        print('3778')
+        a = 2
+
+    elif number == 3779 and number >= range1 and number <= range2:
+        print('3779')
+        a = 2
+
+    elif number == 3780 and number >= range1 and number <= range2:
+        print('3780')
+        a = 2
+
+    elif number == 3781 and number >= range1 and number <= range2:
+        print('3781')
+        a = 2
+
+    elif number == 3782 and number >= range1 and number <= range2:
+        print('3782')
+        a = 2
+
+    elif number == 3783 and number >= range1 and number <= range2:
+        print('3783')
+        a = 2
+
+    elif number == 3784 and number >= range1 and number <= range2:
+        print('3784')
+        a = 2
+
+    elif number == 3785 and number >= range1 and number <= range2:
+        print('3785')
+        a = 2
+
+    elif number == 3786 and number >= range1 and number <= range2:
+        print('3786')
+        a = 2
+
+    elif number == 3787 and number >= range1 and number <= range2:
+        print('3787')
+        a = 2
+
+    elif number == 3788 and number >= range1 and number <= range2:
+        print('3788')
+        a = 2
+
+    elif number == 3789 and number >= range1 and number <= range2:
+        print('3789')
+        a = 2
+
+    elif number == 3790 and number >= range1 and number <= range2:
+        print('3790')
+        a = 2
+
+    elif number == 3791 and number >= range1 and number <= range2:
+        print('3791')
+        a = 2
+
+    elif number == 3792 and number >= range1 and number <= range2:
+        print('3792')
+        a = 2
+
+    elif number == 3793 and number >= range1 and number <= range2:
+        print('3793')
+        a = 2
+
+    elif number == 3794 and number >= range1 and number <= range2:
+        print('3794')
+        a = 2
+
+    elif number == 3795 and number >= range1 and number <= range2:
+        print('3795')
+        a = 2
+
+    elif number == 3796 and number >= range1 and number <= range2:
+        print('3796')
+        a = 2
+
+    elif number == 3797 and number >= range1 and number <= range2:
+        print('3797')
+        a = 2
+
+    elif number == 3798 and number >= range1 and number <= range2:
+        print('3798')
+        a = 2
+
+    elif number == 3799 and number >= range1 and number <= range2:
+        print('3799')
+        a = 2
+
+    elif number == 3800 and number >= range1 and number <= range2:
+        print('3800')
+        a = 2
+
+    elif number == 3801 and number >= range1 and number <= range2:
+        print('3801')
+        a = 2
+
+    elif number == 3802 and number >= range1 and number <= range2:
+        print('3802')
+        a = 2
+
+    elif number == 3803 and number >= range1 and number <= range2:
+        print('3803')
+        a = 2
+
+    elif number == 3804 and number >= range1 and number <= range2:
+        print('3804')
+        a = 2
+
+    elif number == 3805 and number >= range1 and number <= range2:
+        print('3805')
+        a = 2
+
+    elif number == 3806 and number >= range1 and number <= range2:
+        print('3806')
+        a = 2
+
+    elif number == 3807 and number >= range1 and number <= range2:
+        print('3807')
+        a = 2
+
+    elif number == 3808 and number >= range1 and number <= range2:
+        print('3808')
+        a = 2
+
+    elif number == 3809 and number >= range1 and number <= range2:
+        print('3809')
+        a = 2
+
+    elif number == 3810 and number >= range1 and number <= range2:
+        print('3810')
+        a = 2
+
+    elif number == 3811 and number >= range1 and number <= range2:
+        print('3811')
+        a = 2
+
+    elif number == 3812 and number >= range1 and number <= range2:
+        print('3812')
+        a = 2
+
+    elif number == 3813 and number >= range1 and number <= range2:
+        print('3813')
+        a = 2
+
+    elif number == 3814 and number >= range1 and number <= range2:
+        print('3814')
+        a = 2
+
+    elif number == 3815 and number >= range1 and number <= range2:
+        print('3815')
+        a = 2
+
+    elif number == 3816 and number >= range1 and number <= range2:
+        print('3816')
+        a = 2
+
+    elif number == 3817 and number >= range1 and number <= range2:
+        print('3817')
+        a = 2
+
+    elif number == 3818 and number >= range1 and number <= range2:
+        print('3818')
+        a = 2
+
+    elif number == 3819 and number >= range1 and number <= range2:
+        print('3819')
+        a = 2
+
+    elif number == 3820 and number >= range1 and number <= range2:
+        print('3820')
+        a = 2
+
+    elif number == 3821 and number >= range1 and number <= range2:
+        print('3821')
+        a = 2
+
+    elif number == 3822 and number >= range1 and number <= range2:
+        print('3822')
+        a = 2
+
+    elif number == 3823 and number >= range1 and number <= range2:
+        print('3823')
+        a = 2
+
+    elif number == 3824 and number >= range1 and number <= range2:
+        print('3824')
+        a = 2
+
+    elif number == 3825 and number >= range1 and number <= range2:
+        print('3825')
+        a = 2
+
+    elif number == 3826 and number >= range1 and number <= range2:
+        print('3826')
+        a = 2
+
+    elif number == 3827 and number >= range1 and number <= range2:
+        print('3827')
+        a = 2
+
+    elif number == 3828 and number >= range1 and number <= range2:
+        print('3828')
+        a = 2
+
+    elif number == 3829 and number >= range1 and number <= range2:
+        print('3829')
+        a = 2
+
+    elif number == 3830 and number >= range1 and number <= range2:
+        print('3830')
+        a = 2
+
+    elif number == 3831 and number >= range1 and number <= range2:
+        print('3831')
+        a = 2
+
+    elif number == 3832 and number >= range1 and number <= range2:
+        print('3832')
+        a = 2
+
+    elif number == 3833 and number >= range1 and number <= range2:
+        print('3833')
+        a = 2
+
+    elif number == 3834 and number >= range1 and number <= range2:
+        print('3834')
+        a = 2
+
+    elif number == 3835 and number >= range1 and number <= range2:
+        print('3835')
+        a = 2
+
+    elif number == 3836 and number >= range1 and number <= range2:
+        print('3836')
+        a = 2
+
+    elif number == 3837 and number >= range1 and number <= range2:
+        print('3837')
+        a = 2
+
+    elif number == 3838 and number >= range1 and number <= range2:
+        print('3838')
+        a = 2
+
+    elif number == 3839 and number >= range1 and number <= range2:
+        print('3839')
+        a = 2
+
+    elif number == 3840 and number >= range1 and number <= range2:
+        print('3840')
+        a = 2
+
+    elif number == 3841 and number >= range1 and number <= range2:
+        print('3841')
+        a = 2
+
+    elif number == 3842 and number >= range1 and number <= range2:
+        print('3842')
+        a = 2
+
+    elif number == 3843 and number >= range1 and number <= range2:
+        print('3843')
+        a = 2
+
+    elif number == 3844 and number >= range1 and number <= range2:
+        print('3844')
+        a = 2
+
+    elif number == 3845 and number >= range1 and number <= range2:
+        print('3845')
+        a = 2
+
+    elif number == 3846 and number >= range1 and number <= range2:
+        print('3846')
+        a = 2
+
+    elif number == 3847 and number >= range1 and number <= range2:
+        print('3847')
+        a = 2
+
+    elif number == 3848 and number >= range1 and number <= range2:
+        print('3848')
+        a = 2
+
+    elif number == 3849 and number >= range1 and number <= range2:
+        print('3849')
+        a = 2
+
+    elif number == 3850 and number >= range1 and number <= range2:
+        print('3850')
+        a = 2
+
+    elif number == 3851 and number >= range1 and number <= range2:
+        print('3851')
+        a = 2
+
+    elif number == 3852 and number >= range1 and number <= range2:
+        print('3852')
+        a = 2
+
+    elif number == 3853 and number >= range1 and number <= range2:
+        print('3853')
+        a = 2
+
+    elif number == 3854 and number >= range1 and number <= range2:
+        print('3854')
+        a = 2
+
+    elif number == 3855 and number >= range1 and number <= range2:
+        print('3855')
+        a = 2
+
+    elif number == 3856 and number >= range1 and number <= range2:
+        print('3856')
+        a = 2
+
+    elif number == 3857 and number >= range1 and number <= range2:
+        print('3857')
+        a = 2
+
+    elif number == 3858 and number >= range1 and number <= range2:
+        print('3858')
+        a = 2
+
+    elif number == 3859 and number >= range1 and number <= range2:
+        print('3859')
+        a = 2
+
+    elif number == 3860 and number >= range1 and number <= range2:
+        print('3860')
+        a = 2
+
+    elif number == 3861 and number >= range1 and number <= range2:
+        print('3861')
+        a = 2
+
+    elif number == 3862 and number >= range1 and number <= range2:
+        print('3862')
+        a = 2
+
+    elif number == 3863 and number >= range1 and number <= range2:
+        print('3863')
+        a = 2
+
+    elif number == 3864 and number >= range1 and number <= range2:
+        print('3864')
+        a = 2
+
+    elif number == 3865 and number >= range1 and number <= range2:
+        print('3865')
+        a = 2
+
+    elif number == 3866 and number >= range1 and number <= range2:
+        print('3866')
+        a = 2
+
+    elif number == 3867 and number >= range1 and number <= range2:
+        print('3867')
+        a = 2
+
+    elif number == 3868 and number >= range1 and number <= range2:
+        print('3868')
+        a = 2
+
+    elif number == 3869 and number >= range1 and number <= range2:
+        print('3869')
+        a = 2
+
+    elif number == 3870 and number >= range1 and number <= range2:
+        print('3870')
+        a = 2
+
+    elif number == 3871 and number >= range1 and number <= range2:
+        print('3871')
+        a = 2
+
+    elif number == 3872 and number >= range1 and number <= range2:
+        print('3872')
+        a = 2
+
+    elif number == 3873 and number >= range1 and number <= range2:
+        print('3873')
+        a = 2
+
+    elif number == 3874 and number >= range1 and number <= range2:
+        print('3874')
+        a = 2
+
+    elif number == 3875 and number >= range1 and number <= range2:
+        print('3875')
+        a = 2
+
+    elif number == 3876 and number >= range1 and number <= range2:
+        print('3876')
+        a = 2
+
+    elif number == 3877 and number >= range1 and number <= range2:
+        print('3877')
+        a = 2
+
+    elif number == 3878 and number >= range1 and number <= range2:
+        print('3878')
+        a = 2
+
+    elif number == 3879 and number >= range1 and number <= range2:
+        print('3879')
+        a = 2
+
+    elif number == 3880 and number >= range1 and number <= range2:
+        print('3880')
+        a = 2
+
+    elif number == 3881 and number >= range1 and number <= range2:
+        print('3881')
+        a = 2
+
+    elif number == 3882 and number >= range1 and number <= range2:
+        print('3882')
+        a = 2
+
+    elif number == 3883 and number >= range1 and number <= range2:
+        print('3883')
+        a = 2
+
+    elif number == 3884 and number >= range1 and number <= range2:
+        print('3884')
+        a = 2
+
+    elif number == 3885 and number >= range1 and number <= range2:
+        print('3885')
+        a = 2
+
+    elif number == 3886 and number >= range1 and number <= range2:
+        print('3886')
+        a = 2
+
+    elif number == 3887 and number >= range1 and number <= range2:
+        print('3887')
+        a = 2
+
+    elif number == 3888 and number >= range1 and number <= range2:
+        print('3888')
+        a = 2
+
+    elif number == 3889 and number >= range1 and number <= range2:
+        print('3889')
+        a = 2
+
+    elif number == 3890 and number >= range1 and number <= range2:
+        print('3890')
+        a = 2
+
+    elif number == 3891 and number >= range1 and number <= range2:
+        print('3891')
+        a = 2
+
+    elif number == 3892 and number >= range1 and number <= range2:
+        print('3892')
+        a = 2
+
+    elif number == 3893 and number >= range1 and number <= range2:
+        print('3893')
+        a = 2
+
+    elif number == 3894 and number >= range1 and number <= range2:
+        print('3894')
+        a = 2
+
+    elif number == 3895 and number >= range1 and number <= range2:
+        print('3895')
+        a = 2
+
+    elif number == 3896 and number >= range1 and number <= range2:
+        print('3896')
+        a = 2
+
+    elif number == 3897 and number >= range1 and number <= range2:
+        print('3897')
+        a = 2
+
+    elif number == 3898 and number >= range1 and number <= range2:
+        print('3898')
+        a = 2
+
+    elif number == 3899 and number >= range1 and number <= range2:
+        print('3899')
+        a = 2
+
+    elif number == 3900 and number >= range1 and number <= range2:
+        print('3900')
+        a = 2
+
+    elif number == 3901 and number >= range1 and number <= range2:
+        print('3901')
+        a = 2
+
+    elif number == 3902 and number >= range1 and number <= range2:
+        print('3902')
+        a = 2
+
+    elif number == 3903 and number >= range1 and number <= range2:
+        print('3903')
+        a = 2
+
+    elif number == 3904 and number >= range1 and number <= range2:
+        print('3904')
+        a = 2
+
+    elif number == 3905 and number >= range1 and number <= range2:
+        print('3905')
+        a = 2
+
+    elif number == 3906 and number >= range1 and number <= range2:
+        print('3906')
+        a = 2
+
+    elif number == 3907 and number >= range1 and number <= range2:
+        print('3907')
+        a = 2
+
+    elif number == 3908 and number >= range1 and number <= range2:
+        print('3908')
+        a = 2
+
+    elif number == 3909 and number >= range1 and number <= range2:
+        print('3909')
+        a = 2
+
+    elif number == 3910 and number >= range1 and number <= range2:
+        print('3910')
+        a = 2
+
+    elif number == 3911 and number >= range1 and number <= range2:
+        print('3911')
+        a = 2
+
+    elif number == 3912 and number >= range1 and number <= range2:
+        print('3912')
+        a = 2
+
+    elif number == 3913 and number >= range1 and number <= range2:
+        print('3913')
+        a = 2
+
+    elif number == 3914 and number >= range1 and number <= range2:
+        print('3914')
+        a = 2
+
+    elif number == 3915 and number >= range1 and number <= range2:
+        print('3915')
+        a = 2
+
+    elif number == 3916 and number >= range1 and number <= range2:
+        print('3916')
+        a = 2
+
+    elif number == 3917 and number >= range1 and number <= range2:
+        print('3917')
+        a = 2
+
+    elif number == 3918 and number >= range1 and number <= range2:
+        print('3918')
+        a = 2
+
+    elif number == 3919 and number >= range1 and number <= range2:
+        print('3919')
+        a = 2
+
+    elif number == 3920 and number >= range1 and number <= range2:
+        print('3920')
+        a = 2
+
+    elif number == 3921 and number >= range1 and number <= range2:
+        print('3921')
+        a = 2
+
+    elif number == 3922 and number >= range1 and number <= range2:
+        print('3922')
+        a = 2
+
+    elif number == 3923 and number >= range1 and number <= range2:
+        print('3923')
+        a = 2
+
+    elif number == 3924 and number >= range1 and number <= range2:
+        print('3924')
+        a = 2
+
+    elif number == 3925 and number >= range1 and number <= range2:
+        print('3925')
+        a = 2
+
+    elif number == 3926 and number >= range1 and number <= range2:
+        print('3926')
+        a = 2
+
+    elif number == 3927 and number >= range1 and number <= range2:
+        print('3927')
+        a = 2
+
+    elif number == 3928 and number >= range1 and number <= range2:
+        print('3928')
+        a = 2
+
+    elif number == 3929 and number >= range1 and number <= range2:
+        print('3929')
+        a = 2
+
+    elif number == 3930 and number >= range1 and number <= range2:
+        print('3930')
+        a = 2
+
+    elif number == 3931 and number >= range1 and number <= range2:
+        print('3931')
+        a = 2
+
+    elif number == 3932 and number >= range1 and number <= range2:
+        print('3932')
+        a = 2
+
+    elif number == 3933 and number >= range1 and number <= range2:
+        print('3933')
+        a = 2
+
+    elif number == 3934 and number >= range1 and number <= range2:
+        print('3934')
+        a = 2
+
+    elif number == 3935 and number >= range1 and number <= range2:
+        print('3935')
+        a = 2
+
+    elif number == 3936 and number >= range1 and number <= range2:
+        print('3936')
+        a = 2
+
+    elif number == 3937 and number >= range1 and number <= range2:
+        print('3937')
+        a = 2
+
+    elif number == 3938 and number >= range1 and number <= range2:
+        print('3938')
+        a = 2
+
+    elif number == 3939 and number >= range1 and number <= range2:
+        print('3939')
+        a = 2
+
+    elif number == 3940 and number >= range1 and number <= range2:
+        print('3940')
+        a = 2
+
+    elif number == 3941 and number >= range1 and number <= range2:
+        print('3941')
+        a = 2
+
+    elif number == 3942 and number >= range1 and number <= range2:
+        print('3942')
+        a = 2
+
+    elif number == 3943 and number >= range1 and number <= range2:
+        print('3943')
+        a = 2
+
+    elif number == 3944 and number >= range1 and number <= range2:
+        print('3944')
+        a = 2
+
+    elif number == 3945 and number >= range1 and number <= range2:
+        print('3945')
+        a = 2
+
+    elif number == 3946 and number >= range1 and number <= range2:
+        print('3946')
+        a = 2
+
+    elif number == 3947 and number >= range1 and number <= range2:
+        print('3947')
+        a = 2
+
+    elif number == 3948 and number >= range1 and number <= range2:
+        print('3948')
+        a = 2
+
+    elif number == 3949 and number >= range1 and number <= range2:
+        print('3949')
+        a = 2
+
+    elif number == 3950 and number >= range1 and number <= range2:
+        print('3950')
+        a = 2
+
+    elif number == 3951 and number >= range1 and number <= range2:
+        print('3951')
+        a = 2
+
+    elif number == 3952 and number >= range1 and number <= range2:
+        print('3952')
+        a = 2
+
+    elif number == 3953 and number >= range1 and number <= range2:
+        print('3953')
+        a = 2
+
+    elif number == 3954 and number >= range1 and number <= range2:
+        print('3954')
+        a = 2
+
+    elif number == 3955 and number >= range1 and number <= range2:
+        print('3955')
+        a = 2
+
+    elif number == 3956 and number >= range1 and number <= range2:
+        print('3956')
+        a = 2
+
+    elif number == 3957 and number >= range1 and number <= range2:
+        print('3957')
+        a = 2
+
+    elif number == 3958 and number >= range1 and number <= range2:
+        print('3958')
+        a = 2
+
+    elif number == 3959 and number >= range1 and number <= range2:
+        print('3959')
+        a = 2
+
+    elif number == 3960 and number >= range1 and number <= range2:
+        print('3960')
+        a = 2
+
+    elif number == 3961 and number >= range1 and number <= range2:
+        print('3961')
+        a = 2
+
+    elif number == 3962 and number >= range1 and number <= range2:
+        print('3962')
+        a = 2
+
+    elif number == 3963 and number >= range1 and number <= range2:
+        print('3963')
+        a = 2
+
+    elif number == 3964 and number >= range1 and number <= range2:
+        print('3964')
+        a = 2
+
+    elif number == 3965 and number >= range1 and number <= range2:
+        print('3965')
+        a = 2
+
+    elif number == 3966 and number >= range1 and number <= range2:
+        print('3966')
+        a = 2
+
+    elif number == 3967 and number >= range1 and number <= range2:
+        print('3967')
+        a = 2
+
+    elif number == 3968 and number >= range1 and number <= range2:
+        print('3968')
+        a = 2
+
+    elif number == 3969 and number >= range1 and number <= range2:
+        print('3969')
+        a = 2
+
+    elif number == 3970 and number >= range1 and number <= range2:
+        print('3970')
+        a = 2
+
+    elif number == 3971 and number >= range1 and number <= range2:
+        print('3971')
+        a = 2
+
+    elif number == 3972 and number >= range1 and number <= range2:
+        print('3972')
+        a = 2
+
+    elif number == 3973 and number >= range1 and number <= range2:
+        print('3973')
+        a = 2
+
+    elif number == 3974 and number >= range1 and number <= range2:
+        print('3974')
+        a = 2
+
+    elif number == 3975 and number >= range1 and number <= range2:
+        print('3975')
+        a = 2
+
+    elif number == 3976 and number >= range1 and number <= range2:
+        print('3976')
+        a = 2
+
+    elif number == 3977 and number >= range1 and number <= range2:
+        print('3977')
+        a = 2
+
+    elif number == 3978 and number >= range1 and number <= range2:
+        print('3978')
+        a = 2
+
+    elif number == 3979 and number >= range1 and number <= range2:
+        print('3979')
+        a = 2
+
+    elif number == 3980 and number >= range1 and number <= range2:
+        print('3980')
+        a = 2
+
+    elif number == 3981 and number >= range1 and number <= range2:
+        print('3981')
+        a = 2
+
+    elif number == 3982 and number >= range1 and number <= range2:
+        print('3982')
+        a = 2
+
+    elif number == 3983 and number >= range1 and number <= range2:
+        print('3983')
+        a = 2
+
+    elif number == 3984 and number >= range1 and number <= range2:
+        print('3984')
+        a = 2
+
+    elif number == 3985 and number >= range1 and number <= range2:
+        print('3985')
+        a = 2
+
+    elif number == 3986 and number >= range1 and number <= range2:
+        print('3986')
+        a = 2
+
+    elif number == 3987 and number >= range1 and number <= range2:
+        print('3987')
+        a = 2
+
+    elif number == 3988 and number >= range1 and number <= range2:
+        print('3988')
+        a = 2
+
+    elif number == 3989 and number >= range1 and number <= range2:
+        print('3989')
+        a = 2
+
+    elif number == 3990 and number >= range1 and number <= range2:
+        print('3990')
+        a = 2
+
+    elif number == 3991 and number >= range1 and number <= range2:
+        print('3991')
+        a = 2
+
+    elif number == 3992 and number >= range1 and number <= range2:
+        print('3992')
+        a = 2
+
+    elif number == 3993 and number >= range1 and number <= range2:
+        print('3993')
+        a = 2
+
+    elif number == 3994 and number >= range1 and number <= range2:
+        print('3994')
+        a = 2
+
+    elif number == 3995 and number >= range1 and number <= range2:
+        print('3995')
+        a = 2
+
+    elif number == 3996 and number >= range1 and number <= range2:
+        print('3996')
+        a = 2
+
+    elif number == 3997 and number >= range1 and number <= range2:
+        print('3997')
+        a = 2
+
+    elif number == 3998 and number >= range1 and number <= range2:
+        print('3998')
+        a = 2
+
+    elif number == 3999 and number >= range1 and number <= range2:
+        print('3999')
+        a = 2
